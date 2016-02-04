@@ -1,0 +1,202 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0052)http://www.iwesoft.com/ -->
+<html>
+<head>
+<title>pg_0003</title>
+
+<style>
+<!-- 
+select {font-size:12px;}
+A:link {text-decoration: none; color: blue}
+A:visited {text-decoration: none; color: purple}
+A:active {text-decoration: red}
+A:hover {text-decoration: underline; color:red}
+-->
+</style>
+<script TYPE="text/javascript"> 
+<!-- hide 
+function killerrors()
+{ 
+return true; 
+} 
+window.onerror = killerrors; 
+// --> 
+</script>
+<style type="text/css">
+<!--
+.ft0{font-style:normal;font-weight:normal;font-size:16px;font-family:Calibri;color:#cc7832;}
+.ft1{font-style:normal;font-weight:normal;font-size:16px;font-family:Calibri;color:#a9b7c6;}
+.ft2{font-style:normal;font-weight:normal;font-size:16px;font-family:Calibri;color:#9876aa;}
+.ft3{font-style:italic;font-weight:normal;font-size:16px;font-family:Calibri;color:#9876aa;}
+.ft4{font-style:normal;font-weight:normal;font-size:16px;font-family:Calibri;color:#ffc66d;}
+.ft5{font-style:normal;font-weight:normal;font-size:16px;font-family:Calibri;color:#808080;}
+.ft6{font-style:normal;font-weight:normal;font-size:16px;font-family:;color:#808080;}
+.ft7{font-style:normal;font-weight:normal;font-size:16px;font-family:Calibri;color:#6897bb;}
+-->
+</style>
+</head>
+<body vlink="#FFFFFF" link="#FFFFFF" bgcolor="#ffffff">
+
+<script TYPE="text/javascript">
+var currentpos,timer; 
+function initialize() 
+{ 
+timer=setInterval("scrollwindow()",10);
+} 
+function sc(){
+clearInterval(timer); 
+}
+function scrollwindow() 
+{ 
+currentpos=document.body.scrollTop; 
+window.scroll(0,++currentpos); 
+if (currentpos != document.body.scrollTop) 
+sc();
+} 
+document.onmousedown=sc
+document.ondblclick=initialize
+</script>
+<div style="position:absolute;top:0;left:0"><img width="827" height="1169" src="pg_0003.jpg" ALT=""></div>
+<div style="position:absolute;top:144;left:125"><span class="ft0">class</span></div>
+<div style="position:absolute;top:144;left:160"><span class="ft1">MessageViewHolder</span></div>
+<div style="position:absolute;top:144;left:303"><span class="ft0">extends</span></div>
+<div style="position:absolute;top:144;left:360"><span class="ft1">RecyclerView.ViewHolder</span></div>
+<div style="position:absolute;top:144;left:538"><span class="ft1">{</span></div>
+<div style="position:absolute;top:165;left:150"><span class="ft0">private</span></div>
+<div style="position:absolute;top:165;left:201"><span class="ft1">CardView</span></div>
+<div style="position:absolute;top:165;left:270"><span class="ft2">cardView</span></div>
+<div style="position:absolute;top:165;left:333"><span class="ft0">;</span></div>
+<div style="position:absolute;top:186;left:150"><span class="ft0">private</span></div>
+<div style="position:absolute;top:186;left:201"><span class="ft1">TextView</span></div>
+<div style="position:absolute;top:186;left:267"><span class="ft2">textView</span></div>
+<div style="position:absolute;top:186;left:328"><span class="ft0">;</span></div>
+<div style="position:absolute;top:206;left:150"><span class="ft0">public</span></div>
+<div style="position:absolute;top:206;left:194"><span class="ft1">MessageViewHolder(View</span></div>
+<div style="position:absolute;top:206;left:375"><span class="ft1">itemView)</span></div>
+<div style="position:absolute;top:206;left:449"><span class="ft1">{</span></div>
+<div style="position:absolute;top:227;left:175"><span class="ft0">super</span></div>
+<div style="position:absolute;top:227;left:213"><span class="ft1">(itemView)</span></div>
+<div style="position:absolute;top:227;left:287"><span class="ft0">;</span></div>
+<div style="position:absolute;top:248;left:175"><span class="ft2">cardView</span></div>
+<div style="position:absolute;top:248;left:241"><span class="ft1">=</span></div>
+<div style="position:absolute;top:248;left:253"><span class="ft1">(CardView)</span></div>
+<div style="position:absolute;top:269;left:225"><span class="ft1">itemView.findViewById(R.id.</span></div>
+<div style="position:absolute;top:269;left:418"><span class="ft3">messageCard</span></div>
+<div style="position:absolute;top:269;left:508"><span class="ft1">)</span></div>
+<div style="position:absolute;top:269;left:514"><span class="ft0">;</span></div>
+<div style="position:absolute;top:290;left:175"><span class="ft2">textView</span></div>
+<div style="position:absolute;top:290;left:238"><span class="ft1">=</span></div>
+<div style="position:absolute;top:290;left:250"><span class="ft1">(TextView)</span></div>
+<div style="position:absolute;top:311;left:225"><span class="ft1">itemView.findViewById(R.id.</span></div>
+<div style="position:absolute;top:311;left:418"><span class="ft3">messageText</span></div>
+<div style="position:absolute;top:311;left:506"><span class="ft1">)</span></div>
+<div style="position:absolute;top:311;left:511"><span class="ft0">;</span></div>
+<div style="position:absolute;top:331;left:150"><span class="ft1">}</span></div>
+<div style="position:absolute;top:352;left:150"><span class="ft0">public</span></div>
+<div style="position:absolute;top:352;left:194"><span class="ft0">void</span></div>
+<div style="position:absolute;top:352;left:227"><span class="ft4">init</span></div>
+<div style="position:absolute;top:352;left:249"><span class="ft1">(MyMessage</span></div>
+<div style="position:absolute;top:352;left:339"><span class="ft1">message){</span></div>
+<div style="position:absolute;top:373;left:175"><span class="ft1">FrameLayout.LayoutParams</span></div>
+<div style="position:absolute;top:373;left:367"><span class="ft1">params</span></div>
+<div style="position:absolute;top:373;left:421"><span class="ft1">=</span></div>
+<div style="position:absolute;top:394;left:225"><span class="ft0">new</span></div>
+<div style="position:absolute;top:394;left:257"><span class="ft1">FrameLayout.LayoutParams(</span></div>
+<div style="position:absolute;top:415;left:275"><span class="ft1">RelativeLayout.LayoutParams.</span></div>
+<div style="position:absolute;top:415;left:479"><span class="ft3">WRAP_CONTENT</span></div>
+<div style="position:absolute;top:415;left:595"><span class="ft0">,</span></div>
+<div style="position:absolute;top:436;left:275"><span class="ft1">RelativeLayout.LayoutParams.</span></div>
+<div style="position:absolute;top:436;left:479"><span class="ft3">WRAP_CONTENT</span></div>
+<div style="position:absolute;top:456;left:225"><span class="ft1">)</span></div>
+<div style="position:absolute;top:456;left:230"><span class="ft0">;</span></div>
+<div style="position:absolute;top:477;left:175"><span class="ft0">if</span></div>
+<div style="position:absolute;top:477;left:183"><span class="ft1">(message.isFromSaber()){</span></div>
+<div style="position:absolute;top:498;left:200"><span class="ft1">params.</span></div>
+<div style="position:absolute;top:498;left:254"><span class="ft2">gravity</span></div>
+<div style="position:absolute;top:498;left:304"><span class="ft1">=</span></div>
+<div style="position:absolute;top:498;left:316"><span class="ft1">Gravity.</span></div>
+<div style="position:absolute;top:498;left:369"><span class="ft3">START</span></div>
+<div style="position:absolute;top:498;left:412"><span class="ft0">;</span></div>
+<div style="position:absolute;top:519;left:200"><span class="ft5">//</span></div>
+<div style="position:absolute;top:519;left:221"><span class="ft6">左</span></div>
+<div style="position:absolute;top:519;left:246"><span class="ft6">上</span></div>
+<div style="position:absolute;top:519;left:271"><span class="ft6">右</span></div>
+<div style="position:absolute;top:519;left:296"><span class="ft6">下</span></div>
+<div style="position:absolute;top:540;left:200"><span class="ft1">params.setMargins(</span></div>
+<div style="position:absolute;top:540;left:335"><span class="ft7">15</span></div>
+<div style="position:absolute;top:540;left:351"><span class="ft0">,</span></div>
+<div style="position:absolute;top:540;left:355"><span class="ft7">15</span></div>
+<div style="position:absolute;top:540;left:372"><span class="ft0">,</span></div>
+<div style="position:absolute;top:540;left:377"><span class="ft7">30</span></div>
+<div style="position:absolute;top:540;left:393"><span class="ft0">,</span></div>
+<div style="position:absolute;top:540;left:398"><span class="ft7">15</span></div>
+<div style="position:absolute;top:540;left:415"><span class="ft1">)</span></div>
+<div style="position:absolute;top:540;left:420"><span class="ft0">;</span></div>
+<div style="position:absolute;top:581;left:200"><span class="ft2">cardView</span></div>
+<div style="position:absolute;top:581;left:262"><span class="ft1">.setCardBackgroundColor(</span></div>
+<div style="position:absolute;top:602;left:250"><span class="ft1">getResources().</span></div>
+<div style="position:absolute;top:623;left:300"><span class="ft1">getColor(R.color.</span></div>
+<div style="position:absolute;top:623;left:414"><span class="ft3">cardColor1</span></div>
+<div style="position:absolute;top:623;left:488"><span class="ft1">))</span></div>
+<div style="position:absolute;top:623;left:498"><span class="ft0">;</span></div>
+<div style="position:absolute;top:644;left:200"><span class="ft2">textView</span></div>
+<div style="position:absolute;top:644;left:260"><span class="ft1">.setTextColor(</span></div>
+<div style="position:absolute;top:665;left:250"><span class="ft1">getResources().</span></div>
+<div style="position:absolute;top:686;left:300"><span class="ft1">getColor(R.color.</span></div>
+<div style="position:absolute;top:686;left:414"><span class="ft3">cardColor1Pressed</span></div>
+<div style="position:absolute;top:686;left:540"><span class="ft1">))</span></div>
+<div style="position:absolute;top:686;left:550"><span class="ft0">;</span></div>
+<div style="position:absolute;top:706;left:175"><span class="ft1">}</span></div>
+<div style="position:absolute;top:727;left:175"><span class="ft0">else</span></div>
+<div style="position:absolute;top:727;left:205"><span class="ft1">{</span></div>
+<div style="position:absolute;top:748;left:200"><span class="ft1">params.</span></div>
+<div style="position:absolute;top:748;left:254"><span class="ft2">gravity</span></div>
+<div style="position:absolute;top:748;left:304"><span class="ft1">=</span></div>
+<div style="position:absolute;top:748;left:316"><span class="ft1">Gravity.</span></div>
+<div style="position:absolute;top:748;left:369"><span class="ft3">END</span></div>
+<div style="position:absolute;top:748;left:398"><span class="ft0">;</span></div>
+<div style="position:absolute;top:769;left:200"><span class="ft5">//</span></div>
+<div style="position:absolute;top:769;left:221"><span class="ft6">左</span></div>
+<div style="position:absolute;top:769;left:246"><span class="ft6">上</span></div>
+<div style="position:absolute;top:769;left:271"><span class="ft6">右</span></div>
+<div style="position:absolute;top:769;left:296"><span class="ft6">下</span></div>
+<div style="position:absolute;top:790;left:200"><span class="ft1">params.setMargins(</span></div>
+<div style="position:absolute;top:790;left:335"><span class="ft7">30</span></div>
+<div style="position:absolute;top:790;left:351"><span class="ft0">,</span></div>
+<div style="position:absolute;top:790;left:355"><span class="ft7">15</span></div>
+<div style="position:absolute;top:790;left:372"><span class="ft0">,</span></div>
+<div style="position:absolute;top:790;left:377"><span class="ft7">15</span></div>
+<div style="position:absolute;top:790;left:393"><span class="ft0">,</span></div>
+<div style="position:absolute;top:790;left:398"><span class="ft7">15</span></div>
+<div style="position:absolute;top:790;left:415"><span class="ft1">)</span></div>
+<div style="position:absolute;top:790;left:420"><span class="ft0">;</span></div>
+<div style="position:absolute;top:831;left:200"><span class="ft2">cardView</span></div>
+<div style="position:absolute;top:831;left:262"><span class="ft1">.setCardBackgroundColor(</span></div>
+<div style="position:absolute;top:852;left:250"><span class="ft1">getResources().</span></div>
+<div style="position:absolute;top:873;left:300"><span class="ft1">getColor(R.color.</span></div>
+<div style="position:absolute;top:873;left:414"><span class="ft3">cardColor5</span></div>
+<div style="position:absolute;top:873;left:488"><span class="ft1">))</span></div>
+<div style="position:absolute;top:873;left:498"><span class="ft0">;</span></div>
+<div style="position:absolute;top:894;left:200"><span class="ft2">textView</span></div>
+<div style="position:absolute;top:894;left:260"><span class="ft1">.setTextColor(</span></div>
+<div style="position:absolute;top:915;left:250"><span class="ft1">getResources().</span></div>
+<div style="position:absolute;top:936;left:300"><span class="ft1">getColor(R.color.</span></div>
+<div style="position:absolute;top:936;left:414"><span class="ft3">cardColor5Pressed</span></div>
+<div style="position:absolute;top:936;left:540"><span class="ft1">))</span></div>
+<div style="position:absolute;top:936;left:550"><span class="ft0">;</span></div>
+<div style="position:absolute;top:956;left:175"><span class="ft1">}</span></div>
+<div style="position:absolute;top:977;left:175"><span class="ft2">cardView</span></div>
+<div style="position:absolute;top:977;left:237"><span class="ft1">.setLayoutParams(params)</span></div>
+<div style="position:absolute;top:977;left:418"><span class="ft0">;</span></div>
+<div style="position:absolute;top:998;left:175"><span class="ft2">textView</span></div>
+<div style="position:absolute;top:998;left:235"><span class="ft1">.setText(message.getMessage())</span></div>
+<div style="position:absolute;top:998;left:453"><span class="ft0">;</span></div>
+<div style="position:absolute;top:1019;left:150"><span class="ft1">}</span></div>
+<div style="position:absolute;top:1040;left:125"><span class="ft1">}</span></div>
+<script TYPE="text/javascript">
+			var currentZoom = parent.ltop.currentZoom;
+			if(currentZoom != undefined)
+				document.body.style.zoom=currentZoom/100;
+			</script>
+</body>
+</html>
