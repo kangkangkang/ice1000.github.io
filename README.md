@@ -15,9 +15,6 @@
 + ice1000
 + 精灵谱尼
 
-### 常用头像
-![icon](https://github.com/ice1000/dialogs/blob/master/icon/ice1000.jpg)
-
 ## 我的友人
 + [Wimacs](https://github.com/Wimacs "兴趣相投的同学")
 + [奶茶](http://milktea.info/%e5%85%ac%e5%91%8a%e6%9d%bf/vps-service "一起做项目的学姐")
