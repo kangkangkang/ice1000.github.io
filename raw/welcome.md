@@ -1,11 +1,4 @@
----
-layout: default
-title: 关于我
----
-
-{{ page.title }}
-
-我是千里冰封，一个初入IT界的懵懂小白。
+# 我是千里冰封，一个初入IT界的懵懂小白。
 
 
 + Java Android
