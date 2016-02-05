@@ -1,39 +1,56 @@
-## 注意 这不是博客 这只是个人主页
+> ## 注意 这不是博客 这只是个人主页
 
 ## 描述自己
-+ 天朝最后一届理科生
-+ 高一在校生
-+ Java Android开发者
-+ C 嵌入式开发者
-+ 苦逼OI党
-+ 硬件工程师
-+ ~~伪娘~~ 二次元死宅
 
-### 常用网名
-+ 千里冰封
-+ 冰封
-+ ice1000
-+ 精灵谱尼
+力量			|渴望					|相关宗教信仰
+---				|:--:					|---:
+高一在校生		|天朝最后一届理科生		|刷题教
+C				|嵌入式 数电			|树莓派教
+C++				|苦逼OI党 				|CLion教
+Java 			|桌面应用程序			|IntelliJ IDEA教
+Java for Android|Android开发 			|Android Studio教
+SQLite			|数据库					|SQLite教
+lisp			|人工智能				|Emacs教
+数模电路		|硬件工程师 			|Nicola Tesla教信徒
+二次元			|~~伪娘~~ 死宅			|LL教 东方教 VOCALOID教
+水贴技术		|安吧 宅吧 宫吧 G吧 化吧|无相关宗教信仰
+
+## 常用网名
+场所 				| 网名
+--- 				|:---:  
+通用				|千里冰封
+朋友间				|冰封
+车♂友间			|污封、wuli冰封
+不支持UTF-8的地方	|ice1000
+bilibili			|千里冰封ice1000
+贴吧				|精灵谱尼
+竹叶子兄			|脑抽谱尼
+
+## 爱好
++ GALGAME
++ 在网上装逼(当然三次元我是比较低调的
++ 写代码
++ 写论文(毫无技术含量
++ YY各种前沿产品
 
 ## 我的友人
-+ [Wimacs](https://github.com/Wimacs "兴趣相投的同学")
+### 正经朋友
+> + [Wimacs](https://github.com/Wimacs "兴趣相投的同学")
 + [奶茶](http://milktea.info/%e5%85%ac%e5%91%8a%e6%9d%bf/vps-service "一起做项目的学姐")
-+ [3A](https://github.com/sg-first "一个很牛逼又很傻逼的人")
 + [77.](https://github.com/18312847646 "我叫他老大")
+
+### 狐朋狗友
+> + [3A](https://github.com/sg-first "一个很牛逼又很傻逼的人")
 + [S.D.](https://github.com/Predator-SD "他叫我老婆")
++ [果冻](https://github.com/Fydui "它的性别和我相同")
++ [Timothy](https://github.com/iXinwei "姓张名新伟")
 
 ## 成型的项目
 
-### Android
-+ [AIAndroid](https://github.com/ice1000/AIAndroid "我称之为人工少女")
-+ [鬼畜机](https://github.com/ice1000/GhostAnimalPlayer "手机上弹奏属于你的鬼畜")
-
-### Java
-+ [城堡游戏](https://github.com/ice1000/Castle-game "使用Java swing实现")
-
-### C
-
-+ 项目在树莓派上面，暂时没有
+Android|Java|C
+:---:|:---:|:---:
+[AIAndroid](https://github.com/ice1000/AIAndroid "我称之为人工少女")|[城堡游戏](https://github.com/ice1000/Castle-game "使用Java swing实现")|[树莓派小车程序](https://github.com/ice1000/car-on-RPi "毫无技术含量")
+[鬼畜机](https://github.com/ice1000/GhostAnimalPlayer "手机上弹奏属于你的鬼畜")|null|null
 
 ## 中二论文
 
