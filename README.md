@@ -1,19 +1,19 @@
-> ## 注意 这不是博客 这只是个人主页
+### 我是冰封，一名拥有坚定信仰的开发者。
 
 ## 描述自己
 
-力量			|渴望					|相关宗教信仰
----				|:--:					|---:
-高一在校生		|天朝最后一届理科生		|刷题教
-C				|嵌入式 数电			|树莓派教
-C++				|苦逼OI党 				|CLion教
-Java 			|桌面应用程序			|IntelliJ IDEA教
-Java for Android|Android开发 			|Android Studio教
-SQLite			|数据库					|SQLite教
-lisp			|人工智能				|Emacs教
-数模电路		|硬件工程师 			|Nicola Tesla教信徒
-二次元			|~~伪娘~~ 死宅			|LL教 东方教 VOCALOID教
-水贴技术		|安吧 宅吧 宫吧 G吧 化吧|无相关宗教信仰
+力量		|渴望				|相关信仰
+---			|:--:				|---:
+高一在校生	|天朝最后一届理科生	|NULL
+C			|嵌入式 数电		|树莓派教
+C++			|苦逼OI党 			|CLion教
+Java 		|桌面应用程序		|IntelliJ IDEA教
+Android     |Android开发 		|Android Studio教
+SQLite		|数据库				|SQLite教
+lisp		|人工智能			|Emacs教
+数模电路	|硬件工程师 		|Nicola Tesla教
+二次元		|~~伪娘~~ 死宅		|LL教 东方教 V家
+水贴技术	|安宅宫G化吧        |NULL
 
 ## 常用网名
 场所 				| 网名
@@ -27,9 +27,9 @@ bilibili			|千里冰封ice1000
 竹叶子兄			|脑抽谱尼
 
 ## 爱好
-+ GALGAME
-+ 在网上装逼(当然三次元我是比较低调的
-+ 写代码
+> + ~~工口游戏~~GALGAME
++ 在GayHub上装逼(当然三次元我是比较低调的
++ 写代码(毫无水平可言
 + 写论文(毫无技术含量
 + YY各种前沿产品
 
@@ -39,7 +39,7 @@ bilibili			|千里冰封ice1000
 + [奶茶](http://milktea.info/%e5%85%ac%e5%91%8a%e6%9d%bf/vps-service "一起做项目的学姐")
 + [77.](https://github.com/18312847646 "我叫他老大")
 
-### 狐朋狗友
+### ~~狐朋狗友~~不那么正经的朋友
 > + [3A](https://github.com/sg-first "一个很牛逼又很傻逼的人")
 + [S.D.](https://github.com/Predator-SD "他叫我老婆")
 + [果冻](https://github.com/Fydui "它的性别和我相同")
