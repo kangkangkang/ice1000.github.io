@@ -52,7 +52,8 @@ Android|Java|C
 [AIAndroid](https://github.com/ice1000/AIAndroid "我称之为人工少女")|[城堡游戏](https://github.com/ice1000/Castle-game "使用Java swing实现")|[树莓派小车程序](https://github.com/ice1000/car-on-RPi "毫无技术含量")
 [鬼畜机](https://github.com/ice1000/GhostAnimalPlayer "手机上弹奏属于你的鬼畜")|null|null
 
-## 中二论文
+## 其实冰封我无聊时也会写点东西
 
 + [Android开发中使用RecyclerView实现聊天APP消息框左右对齐的效果](https://github.com/ice1000/dialogs/blob/master/%E9%80%9A%E7%94%A8raw/%E8%A3%85%E9%80%BC%E8%AE%BA%E6%96%87/Android%E5%BC%80%E5%8F%91%E4%B8%AD%E4%BD%BF%E7%94%A8RecyclerView%E5%AE%9E%E7%8E%B0%E8%81%8A%E5%A4%A9APP%E6%B6%88%E6%81%AF%E6%A1%86%E5%B7%A6%E5%8F%B3%E5%AF%B9%E9%BD%90%E7%9A%84%E6%95%88%E6%9E%9C.pdf "pdf链接")
++ [OI和实际开发之间的区别](https://github.com/ice1000/dialogs/blob/master/%E9%80%9A%E7%94%A8raw/%E8%A3%85%E9%80%BC%E8%AE%BA%E6%96%87/OI%26dev.pdf "欢迎批评指正")
 + [如何花式调戏SQLite](https://github.com/ice1000/dialogs/blob/master/%E9%80%9A%E7%94%A8raw/%E8%A3%85%E9%80%BC%E8%AE%BA%E6%96%87/%E8%AE%BA%E6%96%87%E4%B8%80.pdf "曾在鬼畜机中用过")
