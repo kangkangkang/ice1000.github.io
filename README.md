@@ -2,22 +2,23 @@
 ## 描述自己
 
 ### 我是冰封，一名拥有坚定信仰的开发者。
-由于IT是一个充满了装逼的业界，所以冰封我作为一个~~受气满满的伪娘~~拥有强烈自我意识的开发者<br/>
-学会了用[Emacs，我的信仰之一](https://www.zhihu.com/question/20846396 "这可是神器，好好看着！")<br/>
-同时我也是[JetBrains](https://www.jetbrains.com/ "真的很牛逼！")
-的铁杆粉丝，我使用并深爱Android Studio、IntelliJ IDEA、CLion、RubyMine等IDE，
-并且以自己的信仰为豪。<br/>
-不是很喜欢像Visual Studio或者Qt这样的<br/>
-10个G以上的~~、一看就知道是拿来吓人的~~IDE。<br/>
-顺便，看了上面的IDE 你也知道我的语言了吧。<br/>
-在学习编程之前我曾经只是一个清纯的死宅。<br/>
+在学习编程之前我曾经只是一个~~清纯的~~死宅。<br/>
 现在混迹[Gayhub](https://github.com/ice1000 "这只是笑称，其实就是github")、
 [知乎](https://www.zhihu.com/people/qian-li-bing-feng-36 "逼乎")
 等~~垃圾~~社交网站。<br/>
 常驻QQ群：230457962<br/>
 平时在这群里面玩玩，聊天，开车，上车，收获不少资源233<br/>
 同时 我也是自豪的 天朝最后一届理科生 2018届哦！233<br/>
-参加NOIP，并且学的很糟糕233<br/>
+参加NOIP，并且学的很糟糕233<br/><br/>
+由于不会前端，所以不能在这个界面做些什么酷炫的东西，评论也不会搞。。<br/>
+大家将就着看看哈<br/>
+
+### 关于我的信仰
+在编辑器之争中，我属于[Emacs](https://www.zhihu.com/question/20846396 "这可是神器，好好看着！")阵营。<br/>
+同时我也是[JetBrains](https://www.jetbrains.com/ "真的很牛逼！")
+的铁杆粉丝。<br/>
+不是很喜欢像Visual Studio或者Qt这样的<br/>
+10个G以上的~~、一看就知道是拿来吓人的~~IDE。<br/>
 
 ## 常用网名
 场所 				| name
@@ -62,7 +63,8 @@ Android|Java|C
 + [Android开发中使用RecyclerView实现聊天APP消息框左右对齐的效果](https://github.com/ice1000/dialogs/blob/master/%E9%80%9A%E7%94%A8raw/%E8%A3%85%E9%80%BC%E8%AE%BA%E6%96%87/Android%E5%BC%80%E5%8F%91%E4%B8%AD%E4%BD%BF%E7%94%A8RecyclerView%E5%AE%9E%E7%8E%B0%E8%81%8A%E5%A4%A9APP%E6%B6%88%E6%81%AF%E6%A1%86%E5%B7%A6%E5%8F%B3%E5%AF%B9%E9%BD%90%E7%9A%84%E6%95%88%E6%9E%9C.pdf "pdf链接")
 + [OI和实际开发之间的区别](https://github.com/ice1000/dialogs/blob/master/%E9%80%9A%E7%94%A8raw/%E8%A3%85%E9%80%BC%E8%AE%BA%E6%96%87/OI%26dev.pdf "欢迎批评指正")
 + [如何花式调戏SQLite](https://github.com/ice1000/dialogs/blob/master/%E9%80%9A%E7%94%A8raw/%E8%A3%85%E9%80%BC%E8%AE%BA%E6%96%87/%E8%AE%BA%E6%96%87%E4%B8%80.pdf "曾在鬼畜机中用过")
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+#### 你会翻到这里，说明你足够无聊。那么我就可以放心地把这种无聊的东西拿给你看了。
 ## 以前在这里写过的傻逼玩意
 
 
