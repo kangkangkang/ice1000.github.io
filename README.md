@@ -1,35 +1,35 @@
 
 ## 描述自己
+我是狰狞的深海冰封，曾用名千里冰封。至于我是个什么样的人，请依次点击以下链接。
++ [github](https://github.com/ice1000)
++ [知乎](https://www.zhihu.com/people/qian-li-bing-feng-36)
++ [gitbook](https://www.gitbook.com/@ice1000/dashboard)
++ [bilibili](http://space.bilibili.com/8309713)
 
-### 我是冰封，一名拥有坚定信仰的开发者。
-在学习编程之前我曾经只是一个~~清纯的~~死宅。<br/>
-现在混迹[Gayhub](https://github.com/ice1000 "这只是笑称，其实就是github")、
-[知乎](https://www.zhihu.com/people/qian-li-bing-feng-36 "逼乎")
-等~~垃圾~~社交网站。<br/>
-常驻QQ群：230457962<br/>
-平时在这群里面玩玩，聊天，开车，上车，收获不少资源233<br/>
-同时 我也是自豪的 天朝最后一届理科生 2018届哦！233<br/>
-参加NOIP，并且学的很糟糕233<br/><br/>
-由于不会前端，所以不能在这个界面做些什么酷炫的东西，评论也不会搞。。<br/>
-大家将就着看看哈<br/>
+然后如果你比较喜欢我这个人，就可以:
++ QQ 951394653 欢迎加好友搞基
 
-### 关于我的信仰
-在编辑器之争中，我属于[Emacs](https://www.zhihu.com/question/20846396 "这可是神器，好好看着！")阵营。<br/>
-同时我也是[JetBrains](https://www.jetbrains.com/ "真的很牛逼！")
-的铁杆粉丝。<br/>
-不是很喜欢像Visual Studio或者Qt这样的<br/>
-10个G以上的~~、一看就知道是拿来吓人的~~IDE。<br/>
+本人出生于2000年2月8日，标准小正太一名。<br/>
+目前正在学习C#和PL理论，以及埋头写小说ing..<br/>
+### 每周~~必做~~有时间就会做的事情
++ 更新无脑科学
++ 写小说
++ 写NOIP代码
++ 维护项目
++ ~~和不懂Material Design的UID撕逼~~
++ 让各种向自己求助的新人安装[Jetbrains家](http://www.jetbrains.com/)的IDE
 
 ## 常用网名
+认识我:
+
 场所 				| name
-:---: 				|:---:  
-通用				|千里冰封
-朋友间				|冰封
-车♂友间			        |污封、wuli冰封
+:---: 				|:---:
+通用				|千里冰封、狰狞的深海冰封
+朋友间				|冰封、冰冰、冰姐姐、冰封妹妹
+狐朋狗友♂间			        |污封、wuli冰封
 不支持UTF-8的地方	                |ice1000
 bilibili			|千里冰封ice1000
-贴吧				|精灵谱尼
-竹叶子兄			        |脑抽谱尼
+贴吧				|精灵谱尼、脑抽谱尼
 
 ## 爱好
 + ~~工口游戏~~GALGAME
@@ -53,19 +53,27 @@ bilibili			|千里冰封ice1000
 + [果冻](https://github.com/Fydui "它的性别和我相同")
 + [Timothy](https://github.com/iXinwei "姓张名新伟")
 
-## 成型的项目
+## 项目
 
-Android|Java|C
-:---:|:---:|:---:
-[AIAndroid](https://github.com/ice1000/AIAndroid "我称之为人工少女")|[城堡游戏](https://github.com/ice1000/Castle-game "使用Java swing和Kotlin实现")|[树莓派小车程序](https://github.com/ice1000/car-on-RPi "毫无技术含量")
-[鬼畜机](https://github.com/ice1000/GhostAnimalPlayer "手机上弹奏属于你的鬼畜")|null|null
-[StudioVSEclipse](https://github.com/ice1000/StudioVSEclipse "一款打飞机游戏")|null|null
+冰封是个懒人，项目不多。
 
-## 其实冰封我无聊时也会写点东西
+Android:
++ [AIAndroid](https://github.com/ice1000/AIAndroid "我称之为人工少女")
++ [鬼畜机](https://github.com/ice1000/GhostAnimalPlayer "手机上弹奏属于你的鬼畜")
++ [StudioVSEclipse](https://github.com/ice1000/StudioVSEclipse "一款打飞机游戏")
++ [APLD社团作品展示APP](https://github.com/ice1000/ALPD-app "后端做的很机智")
+
+Java/Kotlin:
++ [城堡游戏](https://github.com/ice1000/Castle-game "使用Java swing和Kotlin实现")
+
+小说:
++ [时间之晶](https://www.gitbook.com/book/ice1000/time-crystal/details)
+
+随手写点文档:
 
 + [Android开发中使用RecyclerView实现聊天APP消息框左右对齐的效果](https://github.com/ice1000/dialogs/blob/master/%E9%80%9A%E7%94%A8raw/%E8%A3%85%E9%80%BC%E8%AE%BA%E6%96%87/Android%E5%BC%80%E5%8F%91%E4%B8%AD%E4%BD%BF%E7%94%A8RecyclerView%E5%AE%9E%E7%8E%B0%E8%81%8A%E5%A4%A9APP%E6%B6%88%E6%81%AF%E6%A1%86%E5%B7%A6%E5%8F%B3%E5%AF%B9%E9%BD%90%E7%9A%84%E6%95%88%E6%9E%9C.pdf "pdf链接")
 + [OI和实际开发之间的区别](https://github.com/ice1000/dialogs/blob/master/%E9%80%9A%E7%94%A8raw/%E8%A3%85%E9%80%BC%E8%AE%BA%E6%96%87/OI%26dev.pdf "欢迎批评指正")
-+ [如何花式调戏SQLite](https://github.com/ice1000/dialogs/blob/master/%E9%80%9A%E7%94%A8raw/%E8%A3%85%E9%80%BC%E8%AE%BA%E6%96%87/%E8%AE%BA%E6%96%87%E4%B8%80.pdf "曾在鬼畜机中用过")
++ [如何错误地使用SQLite](https://github.com/ice1000/dialogs/blob/master/%E9%80%9A%E7%94%A8raw/%E8%A3%85%E9%80%BC%E8%AE%BA%E6%96%87/%E8%AE%BA%E6%96%87%E4%B8%80.pdf "曾在鬼畜机中用过")
 + [时间之晶](https://ice1000.gitbooks.io/time-crystal/content/index.html)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 #### 你会翻到这里，说明你足够无聊。那么我就可以放心地把这种无聊的东西拿给你看了。
