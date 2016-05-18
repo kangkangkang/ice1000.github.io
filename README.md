@@ -1,6 +1,7 @@
 
 ## 描述自己
-我是狰狞的深海冰封，曾用名千里冰封。至于我是个什么样的人，请依次点击以下链接。
+我是狰狞的深海冰封，曾用名千里冰封。<br/>
+如果你想知道我是个什么样的人，请依次点击以下链接。
 + [github](https://github.com/ice1000)
 + [知乎](https://www.zhihu.com/people/qian-li-bing-feng-36)
 + [gitbook](https://www.gitbook.com/@ice1000/dashboard)
@@ -9,15 +10,18 @@
 然后如果你比较喜欢我这个人，就可以:
 + QQ 951394653 欢迎加好友搞基
 
+### 下面是正经自我介绍
 本人出生于2000年2月8日，标准小正太一名。<br/>
 目前正在学习C#和PL理论，以及埋头写小说ing..<br/>
-### 每周~~必做~~有时间就会做的事情
+平时喜欢拿Kotlin随手写东西。
+
+### 每周必做的事情
 + 更新无脑科学
 + 写小说
 + 写NOIP代码
 + 维护项目
 + ~~和不懂Material Design的UID撕逼~~
-+ 让各种向自己求助的新人安装[Jetbrains家](http://www.jetbrains.com/)的IDE
++ 让各种向自己求助的新人安装[Jetbrains](http://www.jetbrains.com/)的IDE
 
 ## 常用网名
 认识我:
