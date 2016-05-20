@@ -14,47 +14,47 @@
 ### 下面是正经自我介绍
 本人出生于2000年2月8日，标准小正太一名。<br/>
 目前正在学习C#和PL理论，以及埋头写小说ing..<br/>
-最喜欢的语言是Kotlin。
+最喜欢的语言是[Kotlin](http://kotlinlang.org/)。<br/>
+自从度娘被打入冷宫之后就开始使用巨硬的[bing搜索](http://cn.bing.com/)
 
-### 每周必做的事情
+### 每周必做
 + 写作业（苦逼高一党
-+ 更新无脑科学
-+ 写小说
-+ 写NOIP代码
++ 更新[无脑科学](http://space.bilibili.com/8309713)
++ 写[小说](https://www.gitbook.com/book/ice1000/time-crystal/details)
++ 写[NOIP代码](https://github.com/ice1000/OI-codes)
 + 维护项目
-+ ~~和不懂Material Design的UID撕逼~~
++ ~~和不懂[Material Design](http://www.google.com/design/spec/material-design/introduction.html)的垃圾UID撕逼~~
 + 让各种向自己求助的新人安装[Jetbrains](http://www.jetbrains.com/)的IDE
 
 ## 常用网名
-认识我:
 
-场所 				| name
-:---: 				|:---:
-通用				|千里冰封、狰狞的深海冰封
-朋友间				|冰封、冰冰、冰姐姐、冰封妹妹
-狐朋狗友♂间			        |污封、wuli冰封
-不支持UTF-8的地方	                |ice1000
-bilibili			|千里冰封ice1000
-贴吧				|精灵谱尼、脑抽谱尼
+场合|name
+:---:|:---:
+官方称呼|千里冰封、狰狞的深海冰封
+朋友间|冰封、冰冰、冰姐姐、冰封妹妹
+狐朋狗友♂间|污封、wuli冰封
+不支持UTF-8的地方|ice1000
+贴吧|@精灵谱尼、脑抽谱尼
 
 ## 爱好
-+ ~~工口游戏~~GALGAME
-+ 在GayHub上装逼(当然三次元我是比较低调的
-+ 写代码(毫无水平可言
++ 写代码(OI和工程都写，写的时候一定要打开Jetbrains官网
 + 写论文(毫无技术含量
-+ 写小说(这个就不吐槽了。。
++ 写小说(这个就不吐槽了
++ 阅读技术大牛博客
++ 阅读源代码
++ 刷知乎
 + YY各种前沿产品
 + 在编程社区坑新
-+ 向无知的萌新安利JetBrains全家桶。
++ 向无知的萌新安利[Jetbrains全家桶](http://www.jetbrains.com/products)。
 + 和UID撕逼
++ 玩~~工口游戏~~GALGAME
 
 ## 我的基友
 + [S.D.](https://github.com/Predator-SD "他叫我老婆")
 + [Timothy](https://github.com/iXinwei "姓张名新伟")
 
 ## 项目
-
-冰封是个懒人，项目不多。
+求大神轻喷。
 
 Android:
 + [AIAndroid](https://github.com/ice1000/AIAndroid "我称之为人工少女")
