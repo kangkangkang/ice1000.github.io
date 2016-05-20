@@ -1,7 +1,8 @@
 
 ## 描述自己
 我是狰狞的深海冰封，曾用名千里冰封。<br/>
-如果你想知道我是个什么样的人，请依次点击以下链接。
+认识我：
+
 + [github](https://github.com/ice1000)
 + [知乎](https://www.zhihu.com/people/qian-li-bing-feng-36)
 + [gitbook](https://www.gitbook.com/@ice1000/dashboard)
@@ -13,9 +14,10 @@
 ### 下面是正经自我介绍
 本人出生于2000年2月8日，标准小正太一名。<br/>
 目前正在学习C#和PL理论，以及埋头写小说ing..<br/>
-平时喜欢拿Kotlin随手写东西。
+最喜欢的语言是Kotlin。
 
 ### 每周必做的事情
++ 写作业（苦逼高一党
 + 更新无脑科学
 + 写小说
 + 写NOIP代码
@@ -44,17 +46,10 @@ bilibili			|千里冰封ice1000
 + YY各种前沿产品
 + 在编程社区坑新
 + 向无知的萌新安利JetBrains全家桶。
++ 和UID撕逼
 
-## 我的友人
-### 正经朋友
-+ [Wimacs](https://github.com/Wimacs "兴趣相投的同学")
-+ [奶茶](http://milktea.info/%e5%85%ac%e5%91%8a%e6%9d%bf/vps-service "一起做项目的学姐")
-+ [77.](https://github.com/18312847646 "我叫他老大")
-
-### ~~狐朋狗友~~不那么正经的朋友
-+ [3A](https://github.com/sg-first "一个很牛逼又很傻逼的人")
+## 我的基友
 + [S.D.](https://github.com/Predator-SD "他叫我老婆")
-+ [果冻](https://github.com/Fydui "它的性别和我相同")
 + [Timothy](https://github.com/iXinwei "姓张名新伟")
 
 ## 项目
@@ -65,10 +60,11 @@ Android:
 + [AIAndroid](https://github.com/ice1000/AIAndroid "我称之为人工少女")
 + [鬼畜机](https://github.com/ice1000/GhostAnimalPlayer "手机上弹奏属于你的鬼畜")
 + [StudioVSEclipse](https://github.com/ice1000/StudioVSEclipse "一款打飞机游戏")
-+ [APLD社团作品展示APP](https://github.com/ice1000/ALPD-app "后端做的很机智")
++ [APLD`s APP](https://github.com/ice1000/ALPD-app "后端做的很机智")
 
-Java/Kotlin:
+Kotlin(可能出现少量Java):
 + [城堡游戏](https://github.com/ice1000/Castle-game "使用Java swing和Kotlin实现")
++ [音频解码](https://github.com/ice1000/IceAudioDecoder "还没做完")
 
 小说:
 + [时间之晶](https://www.gitbook.com/book/ice1000/time-crystal/details)
