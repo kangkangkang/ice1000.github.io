@@ -12,10 +12,10 @@
 + QQ 951394653 欢迎加好友搞基
 
 ### 下面是正经自我介绍
-本人出生于2000年2月8日，标准小正太一名。<br/>
+本人出生于2000年2月8日，标准小正太一名，哲♂学家。<br/>
 目前正在学习C#和PL理论，以及埋头写小说ing..<br/>
-最喜欢的语言是[Kotlin](http://kotlinlang.org/)。<br/>
-自从度娘被打入冷宫之后就开始使用巨硬的[bing搜索](http://cn.bing.com/)
+在中国作为[Kotlin](http://kotlinlang.org/)的推广者四处安利[Kotlin](http://kotlinlang.org/)语言。<br/>
+搜索引擎墙内使用[bing搜索](http://cn.bing.com/)，墙外使用谷歌。<br/>
 
 ### 每周必做
 + 写作业（苦逼高一党
@@ -40,6 +40,7 @@
 + 写代码(OI和工程都写，写的时候一定要打开Jetbrains官网
 + 写论文(毫无技术含量
 + 写小说(这个就不吐槽了
++ 推广Kotlin
 + 阅读技术大牛博客
 + 阅读源代码
 + 刷知乎
@@ -48,7 +49,7 @@
 + 向无知的萌新安利[Jetbrains全家桶](http://www.jetbrains.com/products)。
 + 和UID撕逼
 + 玩~~工口游戏~~GALGAME
-+ 听[柿チョコ](http://www.bing.com/knows/search?q=%E6%9F%BF%E5%A7%90&mkt=zh-cn&FORM=BKACAI)的歌
++ 听[柿チョコ](http://www.bing.com/knows/search?q=%E6%9F%BF%E5%A7%90&mkt=zh-cn&FORM=BKACAI "女神")的歌
 
 ## 我的基友
 + [S.D.](https://github.com/Predator-SD "他叫我老婆")
@@ -65,12 +66,12 @@ Android:
 
 Kotlin(可能出现少量Java):
 + [城堡游戏](https://github.com/ice1000/Castle-game "使用Java swing和Kotlin实现")
-+ [Kotlin音乐播放器](https://github.com/ice1000/IceAudioDecoder "还没做完")
++ [Kotlin音乐播放器](https://github.com/ice1000/Dekoder "还没做完")
 
 小说:
 + [时间之晶](https://www.gitbook.com/book/ice1000/time-crystal/details)
 
-随手写点文档:
+我写过的文章：
 
 + [Android开发中使用RecyclerView实现聊天APP消息框左右对齐的效果](https://github.com/ice1000/dialogs/blob/master/%E9%80%9A%E7%94%A8raw/%E8%A3%85%E9%80%BC%E8%AE%BA%E6%96%87/Android%E5%BC%80%E5%8F%91%E4%B8%AD%E4%BD%BF%E7%94%A8RecyclerView%E5%AE%9E%E7%8E%B0%E8%81%8A%E5%A4%A9APP%E6%B6%88%E6%81%AF%E6%A1%86%E5%B7%A6%E5%8F%B3%E5%AF%B9%E9%BD%90%E7%9A%84%E6%95%88%E6%9E%9C.pdf "pdf链接")
 + [OI和实际开发之间的区别](https://github.com/ice1000/dialogs/blob/master/%E9%80%9A%E7%94%A8raw/%E8%A3%85%E9%80%BC%E8%AE%BA%E6%96%87/OI%26dev.pdf "欢迎批评指正")
