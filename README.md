@@ -16,6 +16,7 @@
 目前正在学习C#和PL理论，以及埋头写小说ing..<br/>
 在中国作为[Kotlin](http://kotlinlang.org/)的推广者四处安利[Kotlin](http://kotlinlang.org/)语言。<br/>
 搜索引擎墙内使用[bing搜索](http://cn.bing.com/)，墙外使用谷歌。<br/>
+[JetBrains中文官网](http://www.jetbrains.com.cn) 翻译贡献者。
 
 ### 每周必做
 + 写作业（苦逼高一党
@@ -67,13 +68,7 @@ Android:
 
 Kotlin(可能出现少量Java):
 + [城堡游戏](https://github.com/ice1000/Castle-game "使用Java swing和Kotlin实现")
-+ [Kotlin音乐播放器](https://github.com/ice1000/Dekoder "还没做完")
++ [音乐播放器](https://github.com/ice1000/Dekoder "Buggy") 在 [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) 上有留名
 
 小说:
 + [时间之晶](https://www.gitbook.com/book/ice1000/time-crystal/details)
-
-我写过的文章：
-
-+ [Android开发中使用RecyclerView实现聊天APP消息框左右对齐的效果](https://github.com/ice1000/dialogs/blob/master/%E9%80%9A%E7%94%A8raw/%E8%A3%85%E9%80%BC%E8%AE%BA%E6%96%87/Android%E5%BC%80%E5%8F%91%E4%B8%AD%E4%BD%BF%E7%94%A8RecyclerView%E5%AE%9E%E7%8E%B0%E8%81%8A%E5%A4%A9APP%E6%B6%88%E6%81%AF%E6%A1%86%E5%B7%A6%E5%8F%B3%E5%AF%B9%E9%BD%90%E7%9A%84%E6%95%88%E6%9E%9C.pdf "pdf链接")
-+ [OI和实际开发之间的区别](https://github.com/ice1000/dialogs/blob/master/%E9%80%9A%E7%94%A8raw/%E8%A3%85%E9%80%BC%E8%AE%BA%E6%96%87/OI%26dev.pdf "欢迎批评指正")
-+ [如何错误地使用SQLite](https://github.com/ice1000/dialogs/blob/master/%E9%80%9A%E7%94%A8raw/%E8%A3%85%E9%80%BC%E8%AE%BA%E6%96%87/%E8%AE%BA%E6%96%87%E4%B8%80.pdf "曾在鬼畜机中用过")
