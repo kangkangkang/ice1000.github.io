@@ -51,9 +51,10 @@
 + 玩~~工口游戏~~GALGAME
 + 听[柿チョコ](http://www.bing.com/knows/search?q=%E6%9F%BF%E5%A7%90&mkt=zh-cn&FORM=BKACAI "女神")的歌
 
-## 我的基友
-+ [S.D.](https://github.com/Predator-SD "他叫我老婆")
-+ [Timothy](https://github.com/iXinwei "姓张名新伟")
+## 我的朋友
++ [张隆源](https://github.com/Predator-SD "他叫我老婆")
++ [张新伟](https://github.com/iXinwei "姓张名新伟")
++ [刘丰恺](https://github.com/lfkdsk "大神一只")
 
 ## 项目
 求大神轻喷。
