@@ -20,9 +20,8 @@
 
 ### 每周必做
 + 写作业（苦逼高一党
-+ 更新[无脑科学](http://space.bilibili.com/8309713)
-+ 写[小说](https://www.gitbook.com/book/ice1000/time-crystal/details)
 + 写[NOIP代码](https://github.com/ice1000/OI-codes)
++ 写论文
 + 维护项目
 + ~~和不懂[Material Design](http://www.google.com/design/spec/material-design/introduction.html)的垃圾UID撕逼~~
 + 让各种向自己求助的新人安装[Jetbrains](http://www.jetbrains.com/)的IDE
@@ -59,16 +58,21 @@
 + [田书韵](https://github.com/MarisaKirisame "学姐魔理沙")
 + [李嘉盛](https://github.com/18312847646 "老大")
 + [周明凯](https://github.com/sg-first)
+
+<br/>
 P.S. 我是 张寅森
 
 ## 项目
 求大神轻喷。
 
-Android:
+Java for Android:
 + [AIAndroid](https://github.com/ice1000/AIAndroid "我称之为人工少女")
 + [鬼畜机](https://github.com/ice1000/GhostAnimalPlayer "手机上弹奏属于你的鬼畜")
 + [StudioVSEclipse](https://github.com/ice1000/StudioVSEclipse "一款打飞机游戏")
 + [APLD`s APP](https://github.com/ice1000/ALPD-app "后端做的很机智")
+
+Kotlin for Android:
++ [Plastic App](https://github.com/ice1000/PlasticApp "满分后端")
 
 Kotlin(可能出现少量Java):
 + [城堡游戏](https://github.com/ice1000/Castle-game "使用Java swing和Kotlin实现")
@@ -76,3 +80,6 @@ Kotlin(可能出现少量Java):
 
 小说:
 + [时间之晶](https://www.gitbook.com/book/ice1000/time-crystal/details)
+
+论文:
++ https://www.gitbook.com/book/ice1000/android-protect-codes-thesis/details
