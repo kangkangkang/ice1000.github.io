@@ -9,8 +9,9 @@ kramdown:
 author: 
   name: 千里冰封 ice1000
   email: ice1000kotlin@foxmail.com
-  zhihu: http://www.zhihu.com/qian-li-bing-feng-36
-  github: http://github.com/ice1000
+  zhihu: https://www.zhihu.com/people/qian-li-bing-feng-36
+  github: https://github.com/ice1000
+  gitbook: https://www.gitbook.com/@ice1000/dashboard
 
 # 站点信息
 title: 冰封的时间之域
