@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IDEA for beginners
+title: IDEA for beginners(Chinese)
 category: Java
 tags: Essay
 keywords: Java, IDEA
@@ -29,7 +29,7 @@ description:IntelliJ IDEA for beginners one, About IDEA
 
 首先打开IDEA，点击new project，选Java，一路下一步，最后创建成功。
 
-(我写这段的时候一直觉得自己是在侮辱读者智商。。。哈哈。
+(我写这段的时候一直觉得自己是在侮辱读者智商。。大家都是Java程序员。。。哈哈。
 
 接着，*Alt+1*，你会看到文件目录树。
 
