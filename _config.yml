@@ -1,0 +1,23 @@
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: pygments
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author: 
+  name: 千里冰封 ice1000
+  email: ice1000kotlin@foxmail.com
+  zhihu: http://www.zhihu.com/qian-li-bing-feng-36
+  github: http://github.com/ice1000
+
+# 站点信息
+title: 冰封的时间之域
+description: 千里冰封的时间之域
+url: https://ice1000.github.io
+# rss_url: /pages/atom.xml
+
+# avatar头像及Favicon
+avatar: /assets/images/SX.png
+favicon: /assets/images/favicon.png
