@@ -7,19 +7,19 @@ keywords: Java,JavaFX,MaterialDesign
 description: Use Material Design on desktop
 ---
 
-ÎÒÔø¾­Ò»Ö±Ë¼¿¼£¬ÈçºÎÔÚJavaFX×ÀÃæ¿ª·¢ÖĞ½øĞĞMaterial Design£¬Ï£ÍûÄÜÕÒµ½Ò»Ğ©¼È³ÉµÄÂÖ×ÓÀ´×öÕâĞ©ÊÂÇé¡£
+æˆ‘æ›¾ç»ä¸€ç›´æ€è€ƒï¼Œå¦‚ä½•åœ¨JavaFXæ¡Œé¢å¼€å‘ä¸­è¿›è¡ŒMaterial Designï¼Œå¸Œæœ›èƒ½æ‰¾åˆ°ä¸€äº›æ—¢æˆçš„è½®å­æ¥åšè¿™äº›äº‹æƒ…ã€‚
 
-ÔÚ¾­ÀúÁË½Ó½ü4¸öĞ¡Ê±µÄËÑÑ°Ö®ºó£¬ÎÒÖÕÓÚÕÒµ½ÁËÒ»¸ö·Ç³£ÓÅĞãµÄ¿ªÔ´ÏîÄ¿¡ª¡ªJFoenix¡£
+åœ¨ç»å†äº†æ¥è¿‘4ä¸ªå°æ—¶çš„æœå¯»ä¹‹åï¼Œæˆ‘ç»ˆäºæ‰¾åˆ°äº†ä¸€ä¸ªéå¸¸ä¼˜ç§€çš„å¼€æºé¡¹ç›®â€”â€”JFoenixã€‚
 
-ÏÖÔÚ¾ÍÈÃÎÒÃÇ¿ªĞÄµØÔÚJavaFXÖĞÊ¹ÓÃMaterial Design¿Ø¼ş°É£¡
+ç°åœ¨å°±è®©æˆ‘ä»¬å¼€å¿ƒåœ°åœ¨JavaFXä¸­ä½¿ç”¨Material Designæ§ä»¶å§ï¼
 
-## ÒÀÀµ
+## ä¾èµ–
 
 + [JFoenix](https://github.com/jfoenixadmin/JFoenix)
 + JavaFX Gesture Builder
 + JDK
 
-## ×¼±¸
+## å‡†å¤‡
 
-1. Ê×ÏÈ£¬°²×°JDK¡¢JavaFX Gesture Builder,Á½Õß¾ù¿ÉÔÚOracle¹ÙÍøÕÒµ½ÏÂÔØÁ´½Ó¡£
-1. ÏÂÔØJFoenixµÄjar°ü¡£
+1. é¦–å…ˆï¼Œå®‰è£…JDKã€JavaFX Gesture Builder,ä¸¤è€…å‡å¯åœ¨Oracleå®˜ç½‘æ‰¾åˆ°ä¸‹è½½é“¾æ¥ã€‚
+1. ä¸‹è½½JFoenixçš„jaråŒ…ã€‚
