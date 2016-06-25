@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 被掰弯的经历 
+title: I become bisexual
 category: Life
 tags: Essay
 keywords: Bisexual  
