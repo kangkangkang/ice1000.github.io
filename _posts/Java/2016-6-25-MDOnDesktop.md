@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Material Design for JavaFX(Chinese)
-category: Android
+category: Java
 tags: Essay
 keywords: Java,JavaFX,MaterialDesign
 description: Use Material Design on desktop
 ---
 
-我曾经一直思考，如何在JavaFX桌面开发中进行Material Design，希望能找到一些既成的轮子来做这些事情。
+我曾经一直思考，如何在JavaFX桌面开发中进行Material Design。作为一个懒惰的程序员，当时我是希望能找到一些既成的轮子来做这些事情。
 
 在经历了接近4个小时的搜寻之后，我终于找到了一个非常优秀的开源项目——JFoenix。
 
