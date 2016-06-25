@@ -1,10 +1,10 @@
 ---
 layout: post
-title: I become bisexual
+title: I become bisexual(Chinese)
 category: Life
 tags: Essay
 keywords: Bisexual  
-description: 我是怎么被掰弯的  
+description: 我是怎么被掰弯的
 ---
 
 [原文链接](https://www.zhihu.com/question/35403834/answer/107503215)
