@@ -32,9 +32,18 @@ description: Use Material Design on desktop
 1. 如果你还没有非常熟悉的Java IDE，那么请下载安装IntelliJ IDEA，这个过程我已经在另一篇博客中说明。
 1. 下载JFoenix的jar包。
 
+下载提示：打开上文中JFeonix的链接，并找到这里。
+
+<center>
+    <p><img src="/../../../assets/images/java/javafx1/0.png" align="center"></p>
+</center>
+
 ## 开始
 
 1. 打开自家神器IntelliJ IDEA(你也可以使用你自己平时用的IDE)，创建一个JavaFX项目。
+<center>
+    <p><img src="/../../../assets/images/java/javafx1/1.png" align="center"></p>
+</center>
 1. 打开JavaFX Gesture Builder，创建一个新项目并保存所创建的fxml格式的文件到你刚刚的工程文件目录下。
 1. 然后再在同目录下创建一个Java Class，将以下代码原封不动地超进去(注意替换掉那个字符串的内容)
 

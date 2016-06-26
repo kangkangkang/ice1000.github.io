@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IDEA for beginners 1 (Chinese)
+title: IDEA for beginners chapter 1 (Chinese)
 category: Java
 tags: Essay
 keywords: Java,IDEA
@@ -56,7 +56,7 @@ description: IntelliJ IDEA for beginners chapter 1, About IDEA
     <p><img src="/../../../assets/images/java/idea1/3.png" align="center"></p>
 </center>
 
-此时弹出一个窗口，让你输入文件名。随便输入一个Main吧。
+此时弹出一个窗口，让你输入文件名。随便输入一个Main吧。我就不截图了。
 
 在弹出的编辑界面中，会出现一段IDEA帮你创建好的代码。
 
@@ -70,6 +70,7 @@ description: IntelliJ IDEA for beginners chapter 1, About IDEA
 
 ## 你学到了什么？
 
+1. IntelliJ IDEA的下载与安装。
 1. IntelliJ IDEA的打开与关闭。
 2. 如何使用IDEA创建项目。
 3. 快捷键*Alt+1*，用于打开或者关闭文件目录树。
