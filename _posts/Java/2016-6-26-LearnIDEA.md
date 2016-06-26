@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IDEA for beginners chapter 1 (Chinese)
+title: IDEA for beginners 1 Introduction (Chinese)
 category: Java
 tags: Essay
 keywords: Java,IDEA
@@ -31,7 +31,7 @@ description: IntelliJ IDEA for beginners chapter 1, About IDEA
 + IntelliJ IDEA有两个版本，免费的叫community，社区版，针对JavaSE开发以及Android开发，还有集成的版本控制，还支持大量的语言(包括萌萌哒Kotlin)，更多的资源可以通过那些优秀的插件扩展实现。另一个是付费的Ultimate，最终版，包含了JavaEE和数据库功能。
 
 
-## 出于形式主义必须写的东西
+## 如何操作？
 
 首先打开IDEA，点击create new project，选Java。一路下一步，最后创建成功。
 
