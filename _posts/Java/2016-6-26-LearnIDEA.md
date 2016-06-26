@@ -27,8 +27,8 @@ description: IntelliJ IDEA for beginners chapter 1, About IDEA
 
 ## 说明
 
-1. JDK是开发Java所必须的工具，它即包含了Java的开发工具，也包含了Java的运行环境。所以要运行IntelliJ IDEA必须要JDK才行。
-2. IntelliJ IDEA有两个版本，免费的叫community，社区版，针对JavaSE开发以及Android开发，还有集成的版本控制，还支持大量的语言(包括萌萌哒Kotlin)，更多的资源可以通过那些优秀的插件扩展实现。另一个是付费的Ultimate，最终版，包含了JavaEE和数据库功能。
++ JDK是开发Java所必须的工具，它即包含了Java的开发工具，也包含了Java的运行环境。所以要运行IntelliJ IDEA必须要JDK才行。
++ IntelliJ IDEA有两个版本，免费的叫community，社区版，针对JavaSE开发以及Android开发，还有集成的版本控制，还支持大量的语言(包括萌萌哒Kotlin)，更多的资源可以通过那些优秀的插件扩展实现。另一个是付费的Ultimate，最终版，包含了JavaEE和数据库功能。
 
 
 ## 出于形式主义必须写的东西

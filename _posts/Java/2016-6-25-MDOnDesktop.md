@@ -40,14 +40,23 @@ description: Use Material Design on desktop
 
 ## 开始
 
-1. 打开自家神器IntelliJ IDEA(你也可以使用你自己平时用的IDE)，创建一个JavaFX项目。
++ 打开自家神器IntelliJ IDEA(你也可以使用你自己平时用的IDE)，创建一个JavaFX项目。萌萌哒IDEA已经为我们创建好了必须的代码咯。
 <center>
     <p><img src="/../../../assets/images/java/javafx1/1.png" align="center"></p>
 </center>
-1. 打开JavaFX Gesture Builder，创建一个新项目并保存所创建的fxml格式的文件到你刚刚的工程文件目录下。
-1. 然后再在同目录下创建一个Java Class，将以下代码原封不动地超进去(注意替换掉那个字符串的内容)
-
-
++ 打开JavaFX Gesture Builder，按下快捷键*Ctrl+O*并打开你创建工程文件的地方选择Sample.fxml，并打开它。
+<center>
+    <p><img src="/../../../assets/images/java/javafx1/3.png" align="center"></p>
+</center>
++ 另外看到这个小可爱了吗？点击它，选择 import JAR/FXML file... 这个选项，接下来找到你之前下载的jfeonix.jar，双击打开。
+<center>
+    <p><img src="/../../../assets/images/java/javafx1/4.png" align="center"></p>
+</center>
 
 ## 进行中
++ 从左边的控件列表中选择container中的AnchorPane，拖拽到中间的灰色界面处。你会看到一个白色的大框框出现在中间。
+<center>
+    <p><img src="/../../../assets/images/java/javafx1/5.png" align="center"></p>
+</center>
++ 再选择Custom中的JFXButton
 
