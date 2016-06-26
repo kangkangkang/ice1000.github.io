@@ -11,7 +11,9 @@ description: Use Material Design on desktop
 
 在经历了接近4个小时的搜寻之后，我终于找到了一个非常优秀的开源项目——JFoenix。
 
-说实话虽然这货既有官网又有文档，我作为一个JavaFX初学者折腾这玩意的时候还是非常辛苦的，文档和Demo说实话真的是一团糟，非常典型的开源项目:joy:。最终我也搞定了，功夫不负有心人。
+说实话虽然这货既有官网又有文档，我作为一个JavaFX初学者折腾这玩意的时候还是非常辛苦的，文档和Demo说实话真的是一团糟，非常典型的那种开源项目。最终我也搞定了，功夫不负有心人。
+
+于是就在这里写一篇教程，希望大家少走弯路。
 
 现在就让我们开心地在JavaFX中使用Material Design控件吧！
 
@@ -22,7 +24,7 @@ description: Use Material Design on desktop
 + IntelliJ IDEA the Java IDE
 + JDK
 
-考虑到部分同学不知道啥是GitHub，我就把JFoenix的链接贴出来了。剩下几个就自己找咯:joy:～
+考虑到部分同学不知道啥是GitHub，我就把JFoenix的链接贴出来了。剩下几个就自己找咯～
 
 ## 准备
 
