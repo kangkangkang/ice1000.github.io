@@ -23,3 +23,7 @@ description: Use Material Design on desktop
 
 1. 首先，安装JDK、JavaFX Gesture Builder,两者均可在Oracle官网找到下载链接。
 1. 下载JFoenix的jar包。
+1. 打开自家神器IntelliJ IDEA(你也可以使用你自己平时用的IDE)，创建一个JavaFX项目。
+1. 打开JavaFX Gesture Builder，创建一个新项目并保存所创建的fxml格式的文件到你刚刚的工程文件目录下。
+1. 然后再在同目录下创建一个Java Class，将以下代码原封不动地超进去(注意替换掉那个字符串的内容)
+
