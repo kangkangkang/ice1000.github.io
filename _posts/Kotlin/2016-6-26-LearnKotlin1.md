@@ -28,6 +28,7 @@ Kotlin是一门基于JVM的编程语言，支持编译成Java平台的.class目�
 首先，它是一门面向对象(Object-Oriented )的语言。它和它的亲爸爸Java除了反射(Reflection)之外完美地兼容。也就是说，如果你曾经使用Java编写过一个工具类，不过你现在却更喜欢使用Kotlin编程，那么你完全可以在Kotlin里面像调用一个Kotlin类那样调用你曾经写过的Java类。反过来，你也可以让你那些仍然在使用Java的同事直接调用你通过Kotlin编写的类。
 
 至于Kotlin和Java所不那么友好的地方，大概有以下几处：
+
 1. 反射机制不同。
 1. Kotlin支持把函数直接写在文件里(就如C语言一样)，而Java的一切的一切都在类中。
 1. Kotlin没有静态方法这个概念，却引入了object class和companion的概念。不过可以用单例模式来解决这个语言不兼容的问题。
