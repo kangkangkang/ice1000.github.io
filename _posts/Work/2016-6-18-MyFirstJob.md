@@ -1,4 +1,11 @@
-
+---
+layout: post
+title: My First Work Experence, very frustrating(Chinese)
+category: Work
+tags: Essay
+keywords: Work,Job,Life
+description: My First Work Experence, very frustrating, it nearly drove me 2 death..
+---
 
 [原文链接](https://www.zhihu.com/question/33041708/answer/106529298)
 
