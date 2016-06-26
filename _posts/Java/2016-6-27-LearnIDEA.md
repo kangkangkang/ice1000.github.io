@@ -1,10 +1,10 @@
 ---
 layout: post
-title: IDEA for beginners(Chinese)
+title: IDEA for beginners 1 (Chinese)
 category: Java
 tags: Essay
 keywords: Java, IDEA
-description: IntelliJ IDEA for beginners one, About IDEA
+description: IntelliJ IDEA for beginners chapter 1, About IDEA
 ---
 
 经过长期的考虑，冰封小可爱决定写一篇自己的IntelliJ IDEA教程，希望能帮到大多数想用IDEA编程的同学们～
