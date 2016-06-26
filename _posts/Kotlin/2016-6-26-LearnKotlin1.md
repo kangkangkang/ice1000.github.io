@@ -29,10 +29,10 @@ Kotlin是一门基于JVM的编程语言，支持编译成Java平台的.class目�
 
 至于Kotlin和Java所不那么友好的地方，大概有以下几处：
 
-1. 反射机制不同。
-1. Kotlin支持把函数直接写在文件里(就如C语言一样)，而Java的一切的一切都在类中。
-1. Kotlin没有静态方法这个概念，却引入了object class和companion的概念。不过可以用单例模式来解决这个语言不兼容的问题。
-1. Kotlin目标文件的运行需要一个单独的jar包的支持，叫kotlin-runtime.jar，不过这个不大，体积不到1MB。而如果要使用反射的话，还需要包含另一个jar包，叫kotlin-reflection.jar，这个就比较大了，2MB左右。
++ 反射机制不同。
++ Kotlin支持把函数直接写在文件里(就如C语言一样)，而Java的一切的一切都在类中。
++ Kotlin没有静态方法这个概念，却引入了object class和companion的概念。不过可以用单例模式来解决这个语言不兼容的问题。
++ Kotlin目标文件的运行需要一个单独的jar包的支持，叫kotlin-runtime.jar，不过这个不大，体积不到1MB。而如果要使用反射的话，还需要包含另一个jar包，叫kotlin-reflection.jar，这个就比较大了，2MB左右。
 
 不过就如Java8引入了lambda一样，这门语言同样注重对于函数式编程的支持。它的优点是向下兼容到Java6，也就是说Kotlin目标文件可以直接在原生的mac电脑上运行(OS X预装JDK6)，并且你可以在里面使用lambda。
 
