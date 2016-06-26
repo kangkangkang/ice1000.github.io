@@ -58,5 +58,9 @@ description: Use Material Design on desktop
 <center>
     <p><img src="/../../../assets/images/java/javafx1/5.png" align="center"></p>
 </center>
-+ 再选择Custom中的JFXButton
++ 再选择Custom中的JFXButton，拖拽到那个白色大框框里面。
+<center>
+    <p><img src="/../../../assets/images/java/javafx1/6.png" align="center"></p>
+</center>
++ *Ctrl+S* 保存。现在我们转移到IDEA。
 
