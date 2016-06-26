@@ -11,13 +11,13 @@ description: IntelliJ IDEA for beginners chapter 1, About IDEA
 
 ## 搭建环境
 
-找到[JetBrains的官网](www.jetbrains.com)，找到IntelliJ IEDA，并下载免费的community版本。
+找到[JetBrains的官网](https://www.jetbrains.com)，找到IntelliJ IEDA，并下载免费的community版本。
 
 <center>
     <p><img src="/../../../assets/images/java/idea_on_web.png" align="center"></p>
 </center>
 
-当然JetBrains也是有[中文官网](www.jetbrains.com.cn)的，上面还有部分内容是我翻译的。如果你英语死得比较早或者只是单纯地喜欢冰封的话也可以上这里下载。
+当然JetBrains也是有[中文官网](https://www.jetbrains.com.cn)的，上面还有部分内容是我翻译的。如果你英语死得比较早或者只是单纯地喜欢冰封的话也可以上这里下载。
 
 截止本文发布，IDEA最新版本是2016.1.3。
 
