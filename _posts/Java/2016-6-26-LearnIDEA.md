@@ -11,7 +11,13 @@ description: IntelliJ IDEA for beginners chapter 1, About IDEA
 
 ## 搭建环境
 
-搜索"IntelliJ IDEA"，找到JetBrains的官网链接，下载免费的community版本。
+找到[JetBrains的官网](www.jetbrains.com)，找到IntelliJ IEDA，并下载免费的community版本。
+
+<center>
+    <p><img src="/../../../assets/images/java/idea_on_web.png" align="center"></p>
+</center>
+
+当然JetBrains也是有[中文官网](www.jetbrains.com.cn)的，上面还有部分内容是我翻译的。如果你英语死得比较早或者只是单纯地喜欢冰封的话也可以上这里下载。
 
 截止本文发布，IDEA最新版本是2016.1.3。
 
@@ -22,12 +28,23 @@ description: IntelliJ IDEA for beginners chapter 1, About IDEA
 ## 说明
 
 1. JDK是开发Java所必须的工具，它即包含了Java的开发工具，也包含了Java的运行环境。所以要运行IntelliJ IDEA必须要JDK才行。
-2. IntelliJ IDEA有两个版本，一个叫community，社区版，针对JavaSE开发以及Android开发，还有集成的版本控制，还支持大量的语言(包括萌萌哒Kotlin)，更多的资源可以通过那些优秀的插件扩展实现。另一个是Ultimate，最终版，包含了JavaEE和数据库功能。
+2. IntelliJ IDEA有两个版本，免费的叫community，社区版，针对JavaSE开发以及Android开发，还有集成的版本控制，还支持大量的语言(包括萌萌哒Kotlin)，更多的资源可以通过那些优秀的插件扩展实现。另一个是付费的Ultimate，最终版，包含了JavaEE和数据库功能。
 
 
 ## 出于形式主义必须写的东西
 
-首先打开IDEA，点击new project，选Java，一路下一步，最后创建成功。
+首先打开IDEA，点击create new project，选Java。一路下一步，最后创建成功。
+
+<center>
+    <p><img src="/../../../assets/images/java/idea1/0.png" align="center"></p>
+</center>
+
+一路下一步，并输入项目的名称。最后点击finish，稍等片刻就创建成功了。
+
+<center>
+    <p><img src="/../../../assets/images/java/idea1/1.png" align="center"></p>
+	<p><img src="/../../../assets/images/java/idea1/2.png" align="center"></p>
+</center>
 
 (我写这段的时候一直觉得自己是在侮辱读者智商。。大家都是Java程序员。。。哈哈。)
 
@@ -35,11 +52,21 @@ description: IntelliJ IDEA for beginners chapter 1, About IDEA
 
 然后随便在src里面右键，选New -> Java Class。
 
+<center>
+    <p><img src="/../../../assets/images/java/idea1/3.png" align="center"></p>
+</center>
+
+此时弹出一个窗口，让你输入文件名。随便输入一个Main吧。
+
 在弹出的编辑界面中，会出现一段IDEA帮你创建好的代码。
 
 大功告成，你已经认识了IntelliJ IDEA了。
 
 关闭IDEA，请选择任务栏的 File -> exit。
+
+<center>
+    <p><img src="/../../../assets/images/java/idea1/4.png" align="center"></p>
+</center>
 
 ## 你学到了什么？
 
