@@ -17,7 +17,7 @@ description: IntelliJ IDEA for beginners chapter 1, About IDEA
     <p><img src="/../../../assets/images/java/idea_on_web.png" align="center"></p>
 </center>
 
-当然JetBrains也是有[中文官网](https://www.jetbrains.com.cn)的，上面还有部分内容是我翻译的。如果你英语死得比较早或者只是单纯地喜欢冰封的话也可以上这里下载。
+当然JetBrains也是有[中文官网](http://www.jetbrains.com.cn)的，上面还有部分内容是我翻译的。如果你英语死得比较早或者只是单纯地喜欢冰封的话也可以上这里下载。
 
 截止本文发布，IDEA最新版本是2016.1.3。
 
@@ -48,7 +48,7 @@ description: IntelliJ IDEA for beginners chapter 1, About IDEA
 
 (我写这段的时候一直觉得自己是在侮辱读者智商。。大家都是Java程序员。。。哈哈。)
 
-接着，*Alt+1*，你会看到文件目录树。
+接着，*Alt+1*，你会在左边看到文件目录树。
 
 然后随便在src里面右键，选New -> Java Class。
 
