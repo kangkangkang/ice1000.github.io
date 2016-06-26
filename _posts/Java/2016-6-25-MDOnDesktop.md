@@ -42,7 +42,7 @@ description: Use Material Design on desktop
 
 + 打开自家神器IntelliJ IDEA(你也可以使用你自己平时用的IDE)，创建一个JavaFX项目。萌萌哒IDEA已经为我们创建好了必须的代码咯。
 <center>
-    <p><img src="/../../../assets/images/java/javafx1/1.png" align="center"></p>
+    <p><img src="/../../../assets/images/java/javafx1/1.png" align="center"></p>    <p><img src="/../../../assets/images/java/javafx1/2.png" align="center"></p>
 </center>
 + 打开JavaFX Gesture Builder，按下快捷键*Ctrl+O*并打开你创建工程文件的地方选择Sample.fxml，并打开它。
 <center>
