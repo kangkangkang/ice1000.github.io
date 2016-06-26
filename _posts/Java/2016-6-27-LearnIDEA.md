@@ -3,7 +3,7 @@ layout: post
 title: IDEA for beginners 1 (Chinese)
 category: Java
 tags: Essay
-keywords: Java, IDEA
+keywords: Java,IDEA
 description: IntelliJ IDEA for beginners chapter 1, About IDEA
 ---
 
@@ -13,7 +13,7 @@ description: IntelliJ IDEA for beginners chapter 1, About IDEA
 
 搜索"IntelliJ IDEA"，找到JetBrains的官网链接，下载免费的community版本。
 
-截止本文发布，IDEA最新版本是2016.1.2。
+截止本文发布，IDEA最新版本是2016.1.3。
 
 因为仅仅是个下载安装，不需要具体说明了，人类都会的，对吧。
 
@@ -29,7 +29,7 @@ description: IntelliJ IDEA for beginners chapter 1, About IDEA
 
 首先打开IDEA，点击new project，选Java，一路下一步，最后创建成功。
 
-(我写这段的时候一直觉得自己是在侮辱读者智商。。大家都是Java程序员。。。哈哈。
+(我写这段的时候一直觉得自己是在侮辱读者智商。。大家都是Java程序员。。。哈哈。)
 
 接着，*Alt+1*，你会看到文件目录树。
 
