@@ -7,7 +7,7 @@ keywords: NOIP, OI, algorithm
 description: Preparation for NOIP
 ---
 
-[原文链接](https://www.zhihu.com/question/47942797/answer/108369927)
+> [原文链接](https://www.zhihu.com/question/47942797/answer/108369927)
 
 最近遇到了不少想参加信息学竞赛的人。询问我一些很新手很新手的问题。说实话这些问题我还是可以回答，不过似乎他们都把我这个弱菜当成聚聚了。
 
@@ -72,12 +72,36 @@ description: Preparation for NOIP
 
 剩下的不知道！٩(๑`^´๑)۶
 
-根据学长的要求，我要把NOI官网题库100%搞定！(´ . .̫ . `)，然后把CDOJ新手任务肝完！
+> 根据学长的要求，我要把NOI官网题库100%搞定！(´ . .̫ . `)，然后把CDOJ新手任务肝完！
 
 据说这样，肯定能拿到省一！
 
+# OI文化
 
-各位OI狗，我们共勉吧～
+OI圈子和别的一些圈子一样，是有很丰富的文化的。比如，我们有许多**黑话**，下面列举一些常见的：
 
-另外欢迎大家来围观[本弱菜的刷题记录](https://github.com/ice1000/OI-codes)
+黑话|含义
+:--|--:
+AC|Accepted，指测试通过
+TLE|Time Limit Exceeded，超时
+水题|很简单的题，不大需要动脑子
+水过|AC一道水题
+AK|将全部题AC，满分
+OI|Olympic of Informatic，信息学竞赛
+NOIP|省级OI
+NOI|国家级OI
+IOI|世界级OI
+神犇|NOI金牌获奖者或参加IOI的选手
+爆0|一道题0分，没通过任何一个测试点
+OJ|Online Judge，在线评测网站，前文的NOI官网题库就是一个
+P党|使用Pascal进行OI的人
+C党|使用C/C++进行OI的人
+OIer|参加OI的人
+DP|Dynamic Programming，动态规划算法
+DFS|Deep First Search，深度优先搜索
+BFS|Breadth First Search，广度优先搜索
+
+各位OIer，我们共勉吧～
+
+另外欢迎大家来围观[本弱菜的刷题记录](https://github.com/ice1000/OI-codes)，里面还有不少别的OJ的链接
 ，和我一起交流请随意issue～
