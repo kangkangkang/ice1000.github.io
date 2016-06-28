@@ -78,28 +78,39 @@ description: Preparation for NOIP
 
 # OI文化
 
-OI圈子和别的一些圈子一样，是有很丰富的文化的。比如，我们有许多**黑话**，下面列举一些常见的：
+OI圈子和别的一些圈子一样，是有很丰富的文化的。
+
+我们和别的竞赛不同，我们一般竞赛满分600，一道题100分，考试一共两个上午。
+
+另外，我们有许多**黑话**，下面列举一些常见的：
 
 黑话|含义
 :--|--:
+OI|Olympic of Informatic，信息学竞赛
 AC|Accepted，指测试通过
 TLE|Time Limit Exceeded，超时
 水题|很简单的题，不大需要动脑子
 水过|AC一道水题
 AK|将全部题AC，满分
-OI|Olympic of Informatic，信息学竞赛
+骗分|指通过不寻常的手段利用OI黑箱测试来获取一定分数
+打表|无算法，直接根据输入来输出对应的值，常见格式是一个大switch
 NOIP|省级OI
 NOI|国家级OI
 IOI|世界级OI
 神犇|NOI金牌获奖者或参加IOI的选手
+弱菜|我
 爆0|一道题0分，没通过任何一个测试点
 OJ|Online Judge，在线评测网站，前文的NOI官网题库就是一个
+人品|不出意外平安无事考试完成的概率，因为你有可能死机卡机或者忘记保存代码
 P党|使用Pascal进行OI的人
 C党|使用C/C++进行OI的人
 OIer|参加OI的人
-DP|Dynamic Programming，动态规划算法
+DP|Dynamic Programming，动态规划
 DFS|Deep First Search，深度优先搜索
 BFS|Breadth First Search，广度优先搜索
+
+
+可以从中充分看出OI和别的竞赛不同。毕竟OI有人品这个概念，以及可以骗分～
 
 各位OIer，我们共勉吧～
 
