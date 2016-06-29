@@ -3,11 +3,13 @@ layout: post
 title: IDEA for beginners 1 Introduction (Chinese)
 category: Java
 tags: Essay
-keywords: Java,IDEA
+keywords: Java,IDEA,IntelliJ,PhpStorm,WebStorm,PyCharm,Rider,RubyMine,CLion,
 description: IntelliJ IDEA for beginners chapter 1, About IDEA
 ---
 
 经过长期的考虑，冰封小可爱决定写一篇自己的IntelliJ IDEA教程，希望能帮到大多数想用IDEA编程的同学们～
+
+本篇教程同样适用于任何JetBrains公司出品的其他IDE，包括 PhpStorm，WebStorm，PyCharm，Rider，RubyMine，CLion等。
 
 ## 搭建环境
 

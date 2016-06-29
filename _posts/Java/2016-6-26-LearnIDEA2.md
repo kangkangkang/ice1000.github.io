@@ -3,13 +3,15 @@ layout: post
 title: IDEA for beginners 2 Keymap 1 (Chinese)
 category: Java
 tags: Essay
-keywords: Java,IDEA
+keywords: Java,IDEA, PhpStorm,WebStorm,PyCharm,Rider,RubyMine,CLion,
 description: IntelliJ IDEA for beginners chapter 2, Useful Smart Keys
 ---
 
 本期主要内容是IDEA的常用快捷键。关于这个话题我决定多写几期博客，因为快捷键对于你的编码效率来说真的太重要了。
 
 由于冰封用的操作系统是Windows所以这里就先讲讲Windows的快捷键吧。
+
+本篇教程同样适用于任何JetBrains公司出品的其他IDE，包括 PhpStorm，WebStorm，PyCharm，Rider，RubyMine，CLion等。
 
 其中，与常用的其他产生冲突的快捷键，我也标注出来了。请用户根据实际情况使用。
 
