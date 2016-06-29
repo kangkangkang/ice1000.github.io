@@ -130,12 +130,19 @@ description: Use Material Design on desktop
 
 + 多改几次，你发现规律了吗？（注意看窗口标题栏和窗口大小）这个非常重要。你以后就知道，这几行代码是什么意思了。
 <center>
-    <p><img src="/../../../assets/images/java/javafx1/15.png" align="center"></p>
+    <p><img src="/../../../assets/images/java/javafx1/16.png" align="center"></p>
 </center>
 这是冰封的结果，可以看到，窗口变大了好多，变成了代码里设置的600 x 800，标题栏也变成了。。。。呃，文字好羞耻。。
 
 在以后的博客中，冰封会讲到更多关于设置属性、父子控件、、业务逻辑绑定、CSS等~~本来该在这篇讲的~~内容。
 
 enjoy!
+
+## 你学到了什么
+1. jfoenix的使用与下载
+1. JavaFX Gesture Builder的安装与使用
+1. 如何进行JavaFX项目构建
+1. 如何运行一个IDEA项目
+1. Main.java中部分参数的含义
 
 P.S. 写这段博客的时候在上学的路上，写完发现地铁坐过站了。。我的内心几乎是崩溃的。
