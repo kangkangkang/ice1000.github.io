@@ -72,17 +72,20 @@ description: Use Material Design on desktop
 
 ## 小成果
 
-+ **Ctrl+Shift+Alt+S**，打开项目设置(Project Structure)，选择这里。
++ **Ctrl+Shift+Alt+S**，打开项目设置(Project Structure)，选择这个绿色的”+“符号。
 <center>
     <p><img src="/../../../assets/images/java/javafx1/10.png" align="center"></p>
 </center>
-
+然后弹出一个窗口，让你选择添加的文件的路径。还记得刚才把jfoenix.jar放在哪了吗？找到它，然后一路OK下去。冰封的路径和你们的不一样，请根据自己的情况进行选择！
+<center>
+    <p><img src="/../../../assets/images/java/javafx1/11.png" align="center"></p>
+</center>
+添加完成了吗？那么下一步。
 
 + 找到之前IDEA自动生成的Main.java，这是一个带有Main方法的类。我们找到这个类。
 <center>
     <p><img src="/../../../assets/images/java/javafx1/8.png" align="center"></p>
 </center>
-
 可以看到，Main.java在文件树中的图标有一点点不同——它是一个蓝色的”C“，旁边还有一个绿色三角形。这表明这个类是可以直接运行的。
 
 + 把你的视线移到右上角，看到那个绿色的小箭头了吗？点击这个小箭头。这个小箭头是”运行“的意思。
@@ -90,11 +93,46 @@ description: Use Material Design on desktop
     <p><img src="/../../../assets/images/java/javafx1/9.png" align="center"></p>
 </center>
 
-这时IDEA会开始进入一个加载的过程，这个过程实际上就是编译整个工程。等它编译完毕，你就能看到一个弹出的窗口了。这个窗口就是你刚才在Gesture Builder里面弄出来的窗口，在这个窗口中间就是你刚刚添加的按钮，那个叫JFXButtom的按钮。点击它，看到熟悉的Android 5.0 的浮动效果了吗？
+这时IDEA会开始进入一个加载的过程，这个过程实际上就是编译整个工程。等它编译完毕，你就能看到一个弹出的窗口了。这个窗口就是你刚才在Gesture Builder里面弄出来的窗口。
+可是这时候你会产生疑问了，我刚刚拖的按钮呢！？
+
+别急，我已经料到了。（不要打我）这时重新打开你的Gesture Builder。
+
++ 按照下图中”step 1“ -> ”step 2“ -> ”step 3“的顺序依次点击，也就是分别点击那个JFXButton、右上角的Properties、以及点击Properties之后出现的菜单中的”Text“选项、随便输入一段文字，如果你同意图中的话的话，就和我写一样的文字吧。输入完了之后回车一下。
+<center>
+    <p><img src="/../../../assets/images/java/javafx1/12.png" align="center"></p>
+</center>
+
++ 按照上面的步骤重新运行。
+
+在这个窗口中间就是你刚刚添加的按钮，那个叫JFXButtom的按钮。点击它，看到熟悉的Android 5.0 的浮动效果了吗？
+<center>
+    <p><img src="/../../../assets/images/java/javafx1/13.png" align="center"></p>
+</center>
+
+（话说这个截图截得好辛苦，每次都错过）
 
 你成功了。
 
-以此类推，你可以拖拽更多的控件到这个窗口中。
+以此类推，你可以拖拽更多的控件到这个窗口中，然后再运行试试到底发生了什么。
+
+# 再折腾
+
++ 接下来我们修改一下代码中的这一部分。这是原来的样子，我们修改一下这几个值：
+<center>
+    <p><img src="/../../../assets/images/java/javafx1/14.png" align="center"></p>
+</center>
+比如我，我把它们改成了这样：
+<center>
+    <p><img src="/../../../assets/images/java/javafx1/15.png" align="center"></p>
+</center>
+再运行试试？
+
++ 多改几次，你发现规律了吗？（注意看窗口标题栏和窗口大小）这个非常重要。你以后就知道，这几行代码是什么意思了。
+<center>
+    <p><img src="/../../../assets/images/java/javafx1/15.png" align="center"></p>
+</center>
+这是冰封的结果，可以看到，窗口变大了好多，变成了代码里设置的600 x 800，标题栏也变成了。。。。呃，文字好羞耻。。
 
 在以后的博客中，冰封会讲到更多关于设置属性、父子控件、、业务逻辑绑定、CSS等~~本来该在这篇讲的~~内容。
 
