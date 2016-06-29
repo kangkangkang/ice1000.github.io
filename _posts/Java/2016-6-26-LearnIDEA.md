@@ -50,7 +50,7 @@ description: IntelliJ IDEA for beginners chapter 1, About IDEA
 
 (我写这段的时候一直觉得自己是在侮辱读者智商。。大家都是Java程序员。。。哈哈。)
 
-接着，*Alt+1*，你会在左边看到文件目录树。
+接着，**Alt+1**，你会在左边看到文件目录树。
 
 然后随便在src里面右键，选New -> Java Class。
 
@@ -74,6 +74,6 @@ description: IntelliJ IDEA for beginners chapter 1, About IDEA
 
 1. IntelliJ IDEA的下载与安装。
 1. IntelliJ IDEA的打开与关闭。
-2. 如何使用IDEA创建项目。
-3. 快捷键*Alt+1*，用于打开或者关闭文件目录树。
+1. 如何使用IDEA创建项目。
+1. 快捷键*Alt+1*，用于打开或者关闭文件目录树。
 
