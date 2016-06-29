@@ -8,12 +8,11 @@ title: 冰封的时间之域
 </center>
 I am [ice1000](https://github.com/ice1000)，in Chinese is 千里冰封。
 
-Site|my link
-:--|--:
-email|ice1000kotlin@foxmail.com
-zhihu|https://www.zhihu.com/people/qian-li-bing-feng-36
-github|https://github.com/ice1000
-gitbook|https://www.gitbook.com/@ice1000/dashboard
+Know me on:
+[email](ice1000kotlin@foxmail.com)
+[zhihu](https://www.zhihu.com/people/qian-li-bing-feng-36)
+[github](https://github.com/ice1000)
+[gitbook](https://www.gitbook.com/@ice1000/dashboard)
 
 To contact me please send an e-mail.
 
