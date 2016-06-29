@@ -7,9 +7,9 @@ keywords: Java,JavaFX,MaterialDesign
 description: Use Material Design on desktop
 ---
 
-我曾经一直思考，如何在JavaFX桌面开发中进行Material Design。作为一个懒惰的程序员，当时我是希望能找到一些既成的轮子来做这些事情。
+我曾经一直思考，如何在JavaFX桌面开发中进行Material Design。作为一个懒惰的程序员，当时我是希望能找到一些既成的轮子来做这些事情。在经历了接近4个小时的苦苦搜寻之后，我终于找到了一个非常优秀的开源项目——JFoenix。
 
-在经历了接近4个小时的搜寻之后，我终于找到了一个非常优秀的开源项目——JFoenix。
+简直是，众里寻他千百度，蓦然回首，那开源项目却在，GitHub角落处。
 
 说实话虽然这货既有官网又有文档，我作为一个JavaFX初学者折腾这玩意的时候还是非常辛苦的，文档和Demo说实话真的是一团糟，非常典型的那种开源项目。最终我也搞定了，功夫不负有心人。
 
@@ -19,7 +19,7 @@ description: Use Material Design on desktop
 
 ## 依赖
 
-+ [JFoenix](https://github.com/jfoenixadmin/JFoenix)
++ **[JFoenix](https://github.com/jfoenixadmin/JFoenix)**
 + JavaFX Gesture Builder
 + IntelliJ IDEA the Java IDE
 + JDK
@@ -44,7 +44,7 @@ description: Use Material Design on desktop
 <center>
     <p><img src="/../../../assets/images/java/javafx1/1.png" align="center"></p>    <p><img src="/../../../assets/images/java/javafx1/2.png" align="center"></p>
 </center>
-+ 打开JavaFX Gesture Builder，按下快捷键*Ctrl+O*并打开你刚刚在IDEA中创建工程文件的地方，找到src目录，并打开，选择刚刚你已经看到了的、IDEA自动生成的Sample.fxml，并打开它。
++ 打开JavaFX Gesture Builder，按下快捷键**Ctrl+O**并打开你刚刚在IDEA中创建工程文件的地方，找到src目录，并打开，选择刚刚你已经看到了的、IDEA自动生成的Sample.fxml，并打开它。
 <center>
     <p><img src="/../../../assets/images/java/javafx1/3.png" align="center"></p>
 </center>
@@ -52,42 +52,45 @@ description: Use Material Design on desktop
 <center>
     <p><img src="/../../../assets/images/java/javafx1/4.png" align="center"></p>
 </center>
++ 这里提一句，有可能IDEA会在为你自动创建项目时在这个fxml里面加入一些控件，于是我们这种初学者当然是要把它们删掉的了，比如冰封在创建项目的时候，就看到了这个叫做GridPane的东西。处理办法：点击这个东西，然后按键盘上的Delete键。然后它就没有了。
+<center>
+    <p><img src="/../../../assets/images/java/javafx1/7.png" align="center"></p>
+</center>
 
 ## 进行中
 + 从左边的控件列表中选择container中的AnchorPane，拖拽到中间的灰色界面处。你会看到一个白色的大框框出现在中间。 这个白色的大框框就是我们的GUI界面了。它现在还是空的，让我们给它添加一些东西。下面以一个简单的、Material Design的按钮为例子。
 <center>
     <p><img src="/../../../assets/images/java/javafx1/5.png" align="center"></p>
 </center>
-+ 再选择Custom中的JFXButton，拖拽到那个白色大框框里面。你现在可以看到，在这个白色的大框框里面有一个按钮。你现在把按钮拖进去，就相当于在我们的GUI界面里面添加了这个控件。
++ 再选择Custom中的JFXButton，拖拽到那个白色大框框里面。你现在可以看到，在这个白色的大框框里面有一个按钮。你现在把按钮拖进去，就相当于在我们的GUI界面里面添加了这个控件。这里要注意一个问题，一定要把这个按钮拖得靠近左上角一点，先别管为啥，你就只管拖就行。
 <center>
     <p><img src="/../../../assets/images/java/javafx1/6.png" align="center"></p>
 </center>
-是不是一股中国高中教材里的Visual basic的感觉。。
+是不是一股中国高中教材里的Visual basic的感觉。没错，这个非常类似VB，不过基于Java让它拥有更大的能量。
 
-+ *Ctrl+S* 保存。现在我们转移到IDEA。Gesture Builder先别忙关掉，留着我们待会还要用。
++ **Ctrl+S** 保存。现在我们转移到IntelliJ IDEA。Gesture Builder先别忙关掉，留着我们待会还要用。
 
 ## 小成果
 
-还记得IntelliJ IDEA是怎么运行一个项目的吗？
-
-+ 找到之前IDEA自动生成的Main.java，这是一个带有Main方法的类。我们找到这个
-类。
++ **Ctrl+Shift+Alt+S**，打开项目设置(Project Structure)，选择这里。
 <center>
-    <p><img src="/../../../assets/images/java/javafx1/2.png" align="center"></p>
+    <p><img src="/../../../assets/images/java/javafx1/10.png" align="center"></p>
 </center>
-可以看到，
-```java
-public class Main extends 
-```
-一行和
-```
-public static void main(String[] args)
-```
-一行，两行的最左边(如果有行号的话，应该在行号的左边)有一个绿色的小箭头。
 
-+ 点击这个小箭头，弹出一个菜单。选择Run开头的那个选项。
 
-你就能看到一个窗口了。在这个窗口中间就是你刚刚添加的按钮，那个叫JFXButtom的按钮。点击它，看到熟悉的Android 5.0 的浮动效果了吗？
++ 找到之前IDEA自动生成的Main.java，这是一个带有Main方法的类。我们找到这个类。
+<center>
+    <p><img src="/../../../assets/images/java/javafx1/8.png" align="center"></p>
+</center>
+
+可以看到，Main.java在文件树中的图标有一点点不同——它是一个蓝色的”C“，旁边还有一个绿色三角形。这表明这个类是可以直接运行的。
+
++ 把你的视线移到右上角，看到那个绿色的小箭头了吗？点击这个小箭头。这个小箭头是”运行“的意思。
+<center>
+    <p><img src="/../../../assets/images/java/javafx1/9.png" align="center"></p>
+</center>
+
+这时IDEA会开始进入一个加载的过程，这个过程实际上就是编译整个工程。等它编译完毕，你就能看到一个弹出的窗口了。这个窗口就是你刚才在Gesture Builder里面弄出来的窗口，在这个窗口中间就是你刚刚添加的按钮，那个叫JFXButtom的按钮。点击它，看到熟悉的Android 5.0 的浮动效果了吗？
 
 你成功了。
 

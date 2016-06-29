@@ -118,7 +118,7 @@ GitHub -> Coding -> OS@China
 - Vim是最好的编辑器
 - Emacs是智能家居控制中心
 - UpSource能在服务器上让你拥有IDE的体验
-- 轮子哥说的都是对的
+- ~~轮子哥~~知乎上说的都是对的
 
 关于Cpp，这里有图为证：
 
