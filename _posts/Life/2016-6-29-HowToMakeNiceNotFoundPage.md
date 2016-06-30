@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to make a nice 404 page (Chinese)
+title: How to make a cool 404 page (Chinese)
 category: Life
 tags: Essay
 keywords: 404, java, ruby, c, kotlin
