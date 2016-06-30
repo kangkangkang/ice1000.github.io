@@ -37,16 +37,12 @@ description: IntelliJ IDEA for beginners chapter 1, About IDEA
 
 首先打开IDEA，点击create new project，选Java。一路下一步，最后创建成功。
 
-<center>
-    <p><img src="/../../../assets/images/java/idea1/0.png" align="center"></p>
-</center>
+<p><img src="/../../../assets/images/java/idea1/0.png" align="center"></p>
 
 一路下一步，并输入项目的名称。最后点击finish，稍等片刻就创建成功了。
 
-<center>
-    <p><img src="/../../../assets/images/java/idea1/1.png" align="center"></p>
-	<p><img src="/../../../assets/images/java/idea1/2.png" align="center"></p>
-</center>
+<p><img src="/../../../assets/images/java/idea1/1.png" align="center"></p>
+<p><img src="/../../../assets/images/java/idea1/2.png" align="center"></p>
 
 (我写这段的时候一直觉得自己是在侮辱读者智商。。大家都是Java程序员。。。哈哈。)
 
@@ -54,9 +50,7 @@ description: IntelliJ IDEA for beginners chapter 1, About IDEA
 
 然后随便在src里面右键，选New -> Java Class。
 
-<center>
-    <p><img src="/../../../assets/images/java/idea1/3.png" align="center"></p>
-</center>
+<p><img src="/../../../assets/images/java/idea1/3.png" align="center"></p>
 
 此时弹出一个窗口，让你输入文件名。随便输入一个Main吧。我就不截图了。
 
@@ -66,9 +60,7 @@ description: IntelliJ IDEA for beginners chapter 1, About IDEA
 
 关闭IDEA，请选择任务栏的 File -> exit。
 
-<center>
-    <p><img src="/../../../assets/images/java/idea1/4.png" align="center"></p>
-</center>
+<p><img src="/../../../assets/images/java/idea1/4.png" align="center"></p>
 
 ## 你学到了什么？
 
