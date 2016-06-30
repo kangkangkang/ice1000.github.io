@@ -3,7 +3,7 @@ layout: post
 title: How to keep your "zhuangbilities"?(Chinese)
 category: Misc
 tags: Essay
-keywords: ice1000, zhuangbilities
+keywords: ice1000, zhuangbilities, zhuangbi
 description: How to keep your "zhuangbilities"?
 ---
 
@@ -122,9 +122,7 @@ GitHub -> Coding -> OS@China
 
 关于Cpp，这里有图为证：
 
-<center>
-    <p><img src="/../../../assets/images/life/0.png" align="center"></p>
-</center>
+<p><img src="/../../../assets/images/life/0.png" align="center"></p>
 
 ## 结束语
 
