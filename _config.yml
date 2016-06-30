@@ -5,6 +5,8 @@ highlighter: rouge
 kramdown:
   input: GFM
 
+filter: 'category'
+
 # 作者信息
 author: 
   name: 千里冰封 ice1000
@@ -15,10 +17,16 @@ author:
 
 # 站点信息
 title: 冰封的时间之域
-description: 千里冰封的时间之域
+description: > 千里冰封的时间之域
 url: https://ice1000.github.io
+email: ice1000kotlin@foxmail
 # rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
 avatar: /assets/images/ice.jpg
 favicon: /assets/images/nc.jpg
+
+sass:
+  style: compressed
+gems:
+  - jekyll-sitemap
