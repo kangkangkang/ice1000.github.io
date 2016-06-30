@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: How to keep your "zhuangbilities"?(Chinese)
-category: Life
+category: Misc
 tags: Essay
 keywords: ice1000, zhuangbilities
 description: How to keep your "zhuangbilities"?

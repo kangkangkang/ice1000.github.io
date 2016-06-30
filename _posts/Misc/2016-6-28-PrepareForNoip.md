@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Make a preparation for NOIP (Chinese)
-category: Work
+category: Misc
 tags: Essay
 keywords: NOIP, OI, algorithm
 description: Preparation for NOIP

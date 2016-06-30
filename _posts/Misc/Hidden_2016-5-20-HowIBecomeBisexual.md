@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I become bisexual(Chinese)
-category: Life
+category: Misc
 tags: Essay
 keywords: Bisexual  
 description: 我是怎么被掰弯的
