@@ -53,7 +53,7 @@ Shift+F6 | 万能的重命名工具，包括变量方法类名文件名
 Ctrl+Alt+A | git add，请事先选中一个文件(与QQ截图冲突)
 Ctrl+Alt+S | 打开设置(与QQ一个然并卵的功能冲突)
 Ctrl+Alt+Shift+S | 打开当前项目的结构与设置
-
+Shift+Shift|全局搜索
 
 
 以上便是冰封为大家总结的常用快捷键了。这只是JetBrains黑科技的很小一部分，以后还会有更多的使用技巧。
