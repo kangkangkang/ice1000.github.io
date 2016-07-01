@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I met a greate bug of anko(Chinese)
+title: Anko's bug really hurts me a lot(Chinese)
 category: Kotlin
 tags: Essay
 keywords: Kotlin, anko, Android Studio
@@ -21,13 +21,13 @@ description: I met a greate bug of anko
 
 是的，一瞬间断电。然后我的博客就没有了。
 
-当我感到一股深深地绝望时，我重启电脑，Windows开始更新，在100%一直不动。我于是换了台电脑刷题……
+当我感到一股深深地绝望时，我重启电脑，结果特么Windows又开始更新，果然视窗都是辣鸡，进度一瞬间到100%，然后就一直不动了。我非常无奈，于是换了台电脑刷题……
 
-重新打开电脑，发现Notepad++的备份全都没了。千字的博客就这么付诸东流，换了任何人想必都不好受。
+等这家伙终于搞定了，我重新打开电脑，发现Notepad++的备份全都没了。千字的博客就这么付诸东流，换了任何人想必都不好受。
 
 我真的不知道我到底造了什么孽，难道说这次期末考试的原因？
 
-我真的没有心情再去重写这篇博客了。先是Kotlin工具链报错，我都写了很多东西了，结果给我来个断电关机！？
+我真的没有心情再去重写这篇博客了。先是Kotlin工具链报错，我都写了很多东西了，结果给我来个断电关机！？简直和秋寒的PhpStorm一样！
 
 不过既然写了博客，图片也截了，这里还是补一补内容吧。
 
@@ -41,7 +41,9 @@ description: I met a greate bug of anko
 
 <p><img src="/../../../assets/images/java/kt2/1.png" align="center"></p>
 
-这对于任何程序员来说，都是一个巨大的打击。我开始让自己保持冷静，不要慌张。遇到这种情况应该想办法，而不是自暴自弃。就算是帝球那样的聚聚也有编译失败的时候。~~当然，C++编译失败是很正常的事情。~~不过Java或者Kotlin编译失败，就有点离奇了。
+这对于任何程序员来说，都是一个巨大的打击。我开始让自己保持冷静，不要慌张。遇到这种情况应该想办法，而不是自暴自弃。就算是帝球那样的聚聚也有编译失败的时候。~~当然，C++编译失败是很正常的事情。~~ 不过要是Java或者Kotlin编译失败，就有点离奇了。Java或者Kotlin本身工具链是很稳定的，要是出事了我猜十有八九是anko的锅。
+
+强大的代价，就是不稳定啦。
 
 周围的学NOIP的同学们都一脸看智障的眼神看我，我心中也默默诅咒他们的minGW，他们的DEV C++出车祸。
 
@@ -51,9 +53,9 @@ description: I met a greate bug of anko
 
 ## 方案一
 
-更新我的Kotlin插件。今早上在IntelliJ IDEA里更新了我的Kotlin插件，不过还没更新Android Studio的。于是我就开始寄希望于更新上。
+更新我的Kotlin插件。今早上在IntelliJ IDEA里更新了我的Kotlin插件，不过还没更新Android Studio的。万一更新了就没问题了呢？抱着这样的心态，我开始寄希望于更新上。
 
-首先挂上Lantern，下载插件自然是需要科学上网的，咳咳。
+首先挂上Lantern，下载插件自然是需要科学上网的，咳咳。中国真是啥都排斥，连RubyGems都排斥，我真是无语了。
 
 <p><img src="/../../../assets/images/java/kt2/2.png" align="center"></p>
 
@@ -61,23 +63,29 @@ description: I met a greate bug of anko
 
 <p><img src="/../../../assets/images/java/kt2/3.png" align="center"></p>
 
-我这都出车祸了，哪还敢选Early Access Program。只有Stable。
+我这都出车祸了，哪还敢选Early Access Program。只有老老实实选Stable。不过我平时倒是有选EAP的习惯，我的Android Studio、Android SDK和IntelliJ IDEA都是EAP。所以出车祸是必不可少的，因此也经常遇到问题。不过这次这个问题几乎是无解的，因为Kotlin本身就是小众的技术，要想找到哪个冷门bug的帮助，恐怕是难上加难啊。
 
-在科学上网的帮助下，我顺利下载了1.0.3版本的Kotlin编译器，顺手打开了Genymotion准备好运行。
+在科学上网的帮助下，我顺利下载了1.0.3版本的Kotlin编译器，顺手打开了Genymotion准备在编译之后顺利运行。
 
 看到提示重启Studio以使用插件，我兴高采烈地重启了Android Studio。
 
 <p><img src="/../../../assets/images/java/kt2/4.png" align="center"></p>
 
-接下来发生了什么，我都已经在开头说明了。此时我真的是生无可恋。我坐在电脑面前唉声叹气，诅咒着别人的minGW……
+接下来发生了什么，我都已经在开头说明了。可以猜到，此时我真的是生无可恋。我坐在电脑面前唉声叹气，诅咒着别人的minGW……
 
 <p><img src="/../../../assets/images/java/kt2/5.png" align="center"></p>
 
-就是它带来了这场灾祸。
+就是它带来了这场灾祸。看着那熟悉的启动界面，真是又爱又恨。
 
-于是我重启电脑之后再次编译，再次打开Genymotion，期待着成功在虚拟机上运行——
+于是我重启电脑之后再次编译，再次打开Genymotion，默默摩擦起了双手，满眼放光地看着电脑。
+
+此时我的心情，既有一点点兴奋，也有一点点激动，不知道该说什么好。毕竟，这是我第一次独立解决编译工具链的问题。之前都是上StackOverflow搜索问题，然后各种围观聚聚，找到答案之后各种兴奋，不过这次，我要自己当一回聚聚了。虽然只是更新插件版本的问题，可这也是在和别的程序员所造成的bug作抗争，这本身就是一件很伟大的事情。
+
+期待着更新后的插件能够编译成功，并在虚拟机上运行——
 
 <p><img src="/../../../assets/images/java/kt2/1.png" align="center"></p>
+
+[摔桌]
 
 启动方案二。
 
