@@ -3,7 +3,7 @@ layout: post
 title: IDEA for beginners 2 Keymap 1 (Chinese)
 category: Java
 tags: Essay
-keywords: Java,IDEA, PhpStorm,WebStorm,PyCharm,Rider,RubyMine,CLion,
+keywords: Java,IDEA, PhpStorm,WebStorm,PyCharm,Rider,RubyMine,CLion,Android Studio
 description: IntelliJ IDEA for beginners chapter 2, Useful Smart Keys
 ---
 
@@ -13,11 +13,15 @@ description: IntelliJ IDEA for beginners chapter 2, Useful Smart Keys
 
 本篇教程同样适用于任何JetBrains公司出品的其他IDE，包括 PhpStorm，WebStorm，PyCharm，Rider，RubyMine，CLion等。
 
+## 依赖
+
+- IntelliJ IDEA
+
+## 快捷键
+
 其中，与常用的其他产生冲突的快捷键，我也标注出来了。请用户根据实际情况使用。
 
 本篇博客所收录的快捷键一般情况下的要求是全部掌握。
-
-## 快捷键
 
 键 | 作用
 :---|:---

@@ -11,6 +11,10 @@ description: IntelliJ IDEA for beginners chapter 1, About IDEA
 
 本篇教程同样适用于任何JetBrains公司出品的其他IDE，包括 PhpStorm，WebStorm，PyCharm，Rider，RubyMine，CLion等。
 
+## 依赖
+
+- JDK
+
 ## 搭建环境
 
 找到[JetBrains的官网](https://www.jetbrains.com)，找到IntelliJ IEDA，并下载免费的community版本。
