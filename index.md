@@ -18,4 +18,4 @@ View me on GitHub is also a good choice to know me better.
 ## About this blog
 This blog is baesd on [77.'s blog](https://github.com/18312847646/18312847646.github.io) and thanks to him.
 
-I'll write blog very often. You can find what you wanna see by using the search function provided by this blog itself.
+I'll write blog very often. You can find what you wanna see by using the search function provided by this blog itself(but that seem to be not working and I don't know why).
