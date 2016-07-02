@@ -2,7 +2,7 @@
 layout: post
 title: Material Design for JavaFX 1 (Chinese)
 category: Java
-tags: Essay
+tags: Java, JavaFX, MaterialDesign
 keywords: Java,JavaFX,MaterialDesign
 description: Use Material Design on desktop
 ---

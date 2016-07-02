@@ -1,8 +1,8 @@
 ---
 layout: post
 title: IDEA for beginners 3 Tricks in Completion(Chinese)
-category: Java
-tags: Essay
+category: Java, JetBrains
+tags: Java, IntelliJ IDEA
 keywords: Java,IDEA,IntelliJ,IntelliJ IDEA,NetBeans
 description: IntelliJ IDEA for beginners chapter 3, some code completing tricks
 ---

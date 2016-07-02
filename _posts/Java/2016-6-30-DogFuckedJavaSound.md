@@ -2,7 +2,7 @@
 layout: post
 title: Use Java to play mp3 and wav(Chinese)
 category: Java
-tags: Essay
+tags: Java, JavaSound
 keywords: Java, JavaSound
 description: How to use JavaSound to play mp3
 ---

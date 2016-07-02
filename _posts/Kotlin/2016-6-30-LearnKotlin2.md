@@ -2,7 +2,7 @@
 layout: post
 title: How can I master Kotlin 2 Hello World(Chinese)
 category: Kotlin
-tags: Essay
+tags: Kotlin
 keywords: Kotlin
 description: Learn kotlin 1 Hello World
 ---

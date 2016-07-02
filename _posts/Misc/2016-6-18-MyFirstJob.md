@@ -2,7 +2,7 @@
 layout: post
 title: My First Work Experence, very frustrating(Chinese)
 category: Misc
-tags: Essay
+tags: Misc
 keywords: Work,Job,Life,ice1000
 description: My First Work Experence, very frustrating, it nearly drove me 2 death..
 ---

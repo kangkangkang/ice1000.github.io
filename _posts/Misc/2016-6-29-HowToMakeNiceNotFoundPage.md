@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How to make a cool 404 page (Chinese)
-category: Misc
-tags: Essay
+category: Misc, Zhuangbi
+tags: Zhuangbi
 keywords: 404, java, ruby, c, kotlin
 description: How to write a nice 404 page
 ---

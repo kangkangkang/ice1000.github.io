@@ -2,7 +2,7 @@
 layout: post
 title: How can I master Kotlin 1 (Chinese)
 category: Kotlin
-tags: Essay
+tags: Kotlin
 keywords: Kotlin
 description: The way to learn kotlin
 ---
