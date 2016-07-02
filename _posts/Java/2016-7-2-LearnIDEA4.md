@@ -29,6 +29,8 @@ description: IDEA for beginners chapter 4
 
 <p><img src="/../../../assets/images/java/idea4/1.png" align="center"></p>
 
+请忽略我诡异的线条……之前都是用的QQ截图，今天学校把机房的网断了，我就只有用Windows自带的截图工具，那东西比较猥琐，博客的push和commit都是靠的手机……心疼流量。
+
 
 
 
