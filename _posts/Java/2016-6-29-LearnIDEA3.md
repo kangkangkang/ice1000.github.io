@@ -9,6 +9,10 @@ description: IntelliJ IDEA for beginners chapter 3, some code completing tricks
 
 请读者在阅读本篇博客之前学习一下Java语言，因为本篇教程是面向有Java基础的读者的。不过不用担心，你不需要知道太多东西。Java学到OOP那个程度就行了。本文主要内容是一些IDEA中灵活运用代码提示的东西。
 
+## 依赖
+
+- IntelliJ IDEA
+
 ## 开始
 
 你可能会问，代码提示还有啥灵活运用的方法？没关系，如果你对于IDEA一无所知的话，本文能让你对IDEA的爱更上一层楼~~
