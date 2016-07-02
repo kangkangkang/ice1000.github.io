@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IDEA for beginners 4, Integrated Version Control System(Chinese)
-category: Java, IDEA
+category: Java
 tags: Java, IntelliJ IDEA
 keywords: Java,IDEA, PhpStorm,WebStorm,PyCharm,Rider,RubyMine,CLion,Android Studio,Git,GitHub
 description: IDEA for beginners chapter 4

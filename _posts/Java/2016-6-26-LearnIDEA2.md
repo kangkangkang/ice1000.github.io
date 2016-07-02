@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IDEA for beginners 2 Keymap 1 (Chinese)
-category: Java, JetBrains
+category: Java
 tags: Java, JetBrains
 keywords: Java,IDEA, PhpStorm,WebStorm,PyCharm,Rider,RubyMine,CLion,Android Studio
 description: IntelliJ IDEA for beginners chapter 2, Useful Smart Keys

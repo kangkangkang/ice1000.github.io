@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to make your classmates happy (Chinese)
-category: Misc, Zhuangbi
+category: Misc
 tags: Essay
 keywords: zhuangbi, zhuangbilities
 description: How to make your classmates happy

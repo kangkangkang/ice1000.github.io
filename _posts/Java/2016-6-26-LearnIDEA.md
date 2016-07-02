@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IDEA for beginners 1 Introduction (Chinese)
-category: Java, JetBrains
+category: Java
 tags: Java, IntelliJ IDEA, JetBrains
 keywords: Java,IDEA,IntelliJ,PhpStorm,WebStorm,PyCharm,Rider,RubyMine,CLion,
 description: IntelliJ IDEA for beginners chapter 1, About IDEA

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anko's bug really hurts me a lot(Chinese)
-category: Kotlin, JetBrains, Work
+category: Kotlin
 tags: Kotlin, anko
 keywords: Kotlin, anko, Android Studio
 description: I met a greate bug of anko
