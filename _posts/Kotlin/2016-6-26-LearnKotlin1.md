@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何让孩子爱上Kotlin：第一章 环境搭建
+title: 如何让孩子爱上Kotlin第一章：环境搭建
 category: Kotlin
 tags: Kotlin
 keywords: Kotlin
