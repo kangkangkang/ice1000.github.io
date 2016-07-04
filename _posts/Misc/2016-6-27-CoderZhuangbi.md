@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: How to keep your "zhuangbilities"?(Chinese)
+title: 如何装逼/与傻逼相处
 category: Misc
 tags: Misc
 keywords: ice1000, zhuangbilities, zhuangbi

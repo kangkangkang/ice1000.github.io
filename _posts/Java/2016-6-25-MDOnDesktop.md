@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Material Design for JavaFX 1 (Chinese)
+title: 在JavaFX中进行Material Design：第一章
 category: Java
 tags: Java
 keywords: Java,JavaFX,MaterialDesign

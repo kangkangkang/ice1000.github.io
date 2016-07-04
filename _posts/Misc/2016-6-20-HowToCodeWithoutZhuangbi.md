@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to make your classmates happy (Chinese)
+title: 如何愉快地学习写代码而不被说成装逼
 category: Misc
 tags: Essay
 keywords: zhuangbi, zhuangbilities

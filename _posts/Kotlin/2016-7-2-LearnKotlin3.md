@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How can I master Kotlin 3 Variable (Chinese)
+title: 如何让孩子爱上Kotlin第三章：变量
 category: Kotlin
 tags: Essay
 keywords: Kotlin

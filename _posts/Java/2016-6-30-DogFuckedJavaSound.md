@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use Java to play mp3 and wav(Chinese)
+title: 使用Java播放mp3和wav格式的音频
 category: Java
 tags: Java, JavaSound
 keywords: Java, JavaSound

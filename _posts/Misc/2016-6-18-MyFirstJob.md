@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Work Experence, very frustrating(Chinese)
+title: 第一次工作经历，非常不愉快(Chinese)
 category: Misc
 tags: Misc
 keywords: Work,Job,Life,ice1000

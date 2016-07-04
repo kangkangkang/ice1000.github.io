@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In loved with PyCharm Edu(Chinese)
+title: 好东西推荐：PyCharm Edu
 category: JetBrains, Misc
 tags: PyCharm, JetBrains, Python
 keywords: PyCharm,PyCharm Edu,JetBrains, Python
@@ -83,7 +83,6 @@ PyCharm Edu 的学习过程是这样的：
 
 - PyCharm Edu 的安装与使用
 - 如何让孩子爱上 Python
-
 
 
 

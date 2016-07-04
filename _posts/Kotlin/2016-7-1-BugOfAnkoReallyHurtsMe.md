@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anko's bug really hurts me a lot(Chinese)
+title: Kotlin编译器内部报错，我受伤很深(Chinese)
 category: Kotlin
 tags: Kotlin, anko
 keywords: Kotlin, anko, Android Studio

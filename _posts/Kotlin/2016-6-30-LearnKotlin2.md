@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How can I master Kotlin 2 Hello World(Chinese)
+title: 如何让孩子爱上Kotlin第二章：Hello World
 category: Kotlin
 tags: Kotlin
 keywords: Kotlin

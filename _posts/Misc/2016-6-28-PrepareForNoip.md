@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Make a preparation for NOIP (Chinese)
+title: NOIP学习路线 
 category: Misc
 tags: Misc
 keywords: NOIP, OI, algorithm

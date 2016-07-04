@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IDEA for beginners 3 Tricks in Completion(Chinese)
+title: 传教之IntelliJ IDEA第三章：代码补全中的小技巧
 category: Java
 tags: Java, IntelliJ IDEA
 keywords: Java,IDEA,IntelliJ,IntelliJ IDEA,NetBeans
@@ -47,13 +47,13 @@ public static void main(String[] args) {
 缩写|补全内容
 :---:|---:
 **psvm**|public static void main(String[] args){}
-**sout**|System.out.println();
+**sout**|System.out.println(); **(在Kotlin中是println())**
 **souf**|System.out.printf();
 **serr**|System.err.println();
 **psf**|public static final
 **psfi**|public static final int
 **psfs**|public static final String
-**toast**|Toast.makeText(this, "", Toast.LENGTH_SHORT).show(); **for Android Developing only**
+**toast**|Toast.makeText(this, "", Toast.LENGTH_SHORT).show(); **(仅限Android)**
 
 赶紧试试吧。
 
