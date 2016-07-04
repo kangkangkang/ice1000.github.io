@@ -24,6 +24,8 @@ description: How Decompile Android Applications
 
 但是我当时对此的心态是，对于源代码非常好奇，以及我很想听听那不和谐的声音究竟是怎样的……
 
+## 故事开始
+
 不久后，冰封的损友群之一就出现了这样的消息：
 
 <p><img src="/../../../assets/images/andr/decode/1.png" align="center"></p>
@@ -58,6 +60,89 @@ description: How Decompile Android Applications
 
 我简直无力吐槽，连个multi dex都没有，易安卓果然辣鸡，药丸啊！
 
+<p><img src="/../../../assets/images/andr/decode/6.png" align="center"></p>
 
+勇敢地逆向。至于我的逆向工具是什么，其实我不是特别想放出来，以后可能会有教程吧。长期关注博客，可能就会看到喔。
 
+<p><img src="/../../../assets/images/andr/decode/7.png" align="center"></p>
+
+## 文件目录说明
+
+- e4a.runtime
+
+估计就是易安卓的类库了，全是乱码的中文，我简直看不下去，不堪入目的代码。
+
+- p
+
+源代码。我对这个开发者有点无语，包名很奇怪啊……
+
+下面是p目录下的代码。R文件大家都知道是什么东西，我就不放出来了。
+
+```java
+package com.p;
+
+import com.e4a.runtime.Objects;
+import com.e4a.runtime.annotations.SimpleDataElement;
+import com.e4a.runtime.annotations.SimpleObject;
+import com.e4a.runtime.components.impl.android.后台服务Impl;
+import com.e4a.runtime.components.后台服务;
+import com.e4a.runtime.variants.ByteVariant;
+import com.e4a.runtime.variants.IntegerVariant;
+import com.e4a.runtime.variants.Variant;
+import com.e4a.runtime.系统相关类;
+import com.e4a.runtime.转换操作;
+
+@SimpleObject
+public class 后台服务操作
+  extends 后台服务Impl
+{
+  @SimpleDataElement
+  public static 后台服务 后台服务操作;
+  
+  public 后台服务操作()
+  {
+    Objects.initializeProperties(this);
+    $define();
+  }
+  
+  public void $define()
+  {
+    后台服务操作 = (后台服务)this;
+    后台服务操作.创建完毕();
+  }
+  
+  public void 服务处理过程(String paramString)
+  {
+    int i = 0;
+    if (paramString.equals("闹钟")) {
+      for (;;)
+      {
+        int j = IntegerVariant.getIntegerVariant(i).add(ByteVariant.getByteVariant((byte)1)).getInteger();
+        系统相关类.发送广播("后台服务广播", 1, 转换操作.整数到文本(j));
+        i = j;
+        if (IntegerVariant.getIntegerVariant(j).cmp(ByteVariant.getByteVariant((byte)1)) == 0) {
+          i = 0;
+        }
+      }
+    }
+  }
+}
+```
+
+可以看出，真的是个垃圾开发者。
+
++ Java的规范是大括号不换行，他换行。**辣鸡**。
++ 字符串硬编码，意义不明。
+
+至于e4a里面的内容，我也简略看了一下，封装得不错，确实是为垃圾开发者提供了便利。不过，一个拿易语言开发Android的人，你又能对他报什么希望呢？
+
+下面是简要截图。
+
+<p><img src="/../../../assets/images/andr/decode/8.png" align="center"></p>
+
+要想看到Material Design，肯定是不可能了。
+
+## 最重要的声明
+
+不开车。
 
