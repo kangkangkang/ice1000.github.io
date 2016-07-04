@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Decompiled an 616-like Android app(Chinese)
+title: 616惨案绝不会重演
 category: Android
 tags: Android, java
 keywords: java, Android

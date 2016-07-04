@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to make a cool 404 page (Chinese)
+title: 一个很程序员的404页面
 category: Misc
 tags: Zhuangbi
 keywords: 404, java, ruby, c, kotlin
