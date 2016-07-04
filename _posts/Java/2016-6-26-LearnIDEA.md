@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IDEA for beginners 1 Introduction (Chinese)
+title: 传教之IntelliJ IDEA第一章：IntelliJ IDEA的下载与安装
 category: Java
 tags: Java, IntelliJ IDEA, JetBrains
 keywords: Java,IDEA,IntelliJ,PhpStorm,WebStorm,PyCharm,Rider,RubyMine,CLion,

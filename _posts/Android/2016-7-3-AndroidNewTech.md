@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Something come out after Lolipop (Chinese)
+title: 比较新鲜的Android开发常识(Chinese)
 category: Android
 tags: Java,Android
 keywords: Java,MaterialDesign,Android
