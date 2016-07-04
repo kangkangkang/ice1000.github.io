@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 比较新鲜的Android开发常识(Chinese)
+title: 比较新鲜的Android开发常识
 category: Android
 tags: Java,Android
 keywords: Java,MaterialDesign,Android

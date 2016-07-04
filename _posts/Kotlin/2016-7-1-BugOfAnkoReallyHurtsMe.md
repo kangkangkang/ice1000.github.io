@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kotlin编译器内部报错，我受伤很深(Chinese)
+title: Kotlin编译器内部报错，我受伤很深
 category: Kotlin
 tags: Kotlin, anko
 keywords: Kotlin, anko, Android Studio

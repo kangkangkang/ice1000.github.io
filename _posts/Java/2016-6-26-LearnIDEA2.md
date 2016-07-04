@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 传教之IntelliJ IDEA第二章：快捷键（一）(Chinese)
+title: 传教之IntelliJ IDEA第二章：快捷键（一）
 category: Java
 tags: Java, JetBrains
 keywords: Java,IDEA, PhpStorm,WebStorm,PyCharm,Rider,RubyMine,CLion,Android Studio
