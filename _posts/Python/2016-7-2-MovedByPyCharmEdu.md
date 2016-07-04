@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In loved with PyCharm Edu(Chinese)
+title: 好东西推荐：PyCharm Edu
 category: JetBrains, Misc
 tags: PyCharm, JetBrains, Python
 keywords: PyCharm,PyCharm Edu,JetBrains, Python
@@ -19,7 +19,7 @@ description: PyCharm Edu is a really good tool
 
 - PyCharm Edu
 - JDK
-- Python解释器
+- Python 3解释器
 
 三个都是很好下载的东西，请大家前往官网下载。 PyCharm Edu 没有内置的 Python解释器，请单独下载！
 
