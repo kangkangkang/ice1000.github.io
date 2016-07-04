@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 好东西推荐：PyCharm Edu
-category: JetBrains, Misc
+category: Misc
 tags: PyCharm, JetBrains, Python
 keywords: PyCharm,PyCharm Edu,JetBrains, Python
 description: PyCharm Edu is a really good tool
