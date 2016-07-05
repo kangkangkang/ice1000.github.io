@@ -42,17 +42,22 @@ C|面向过程编程+系统底层
 # This is Ruby
 class ErrorReasoner
 	def initialize
-		@messageTitle = '404 Not Found'
-		@messageContent = '你来到这个页面，通常有两个原因'
+		@message_title = '404 Not Found'
+		@message_content = '你来到这个页面，通常有三个原因'
 	end
-	self.define_method "_print_reason", do
-		print @messageTitle, "\n"
-		print @messageContent, "\n"
+	def my_attr_accessor(*args)
+		args.each do |i|
+			eval "p @#{i}"
+		end
+	end
+	def _print_reason
+		my_attr_accessor :message_title, :message_content
 	end
 end
 
 printer = ErrorReasoner.new
 printer._print_reason
+
 ```
 
 ```java
