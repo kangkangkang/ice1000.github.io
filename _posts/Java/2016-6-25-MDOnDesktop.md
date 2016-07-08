@@ -20,7 +20,7 @@ description: Use Material Design on desktop
 ## 依赖
 
 + **[JFoenix](https://github.com/jfoenixadmin/JFoenix)**
-+ JavaFX Scene Builder2.0
++ **[JavaFX Scene Builder2.0](http://www.oracle.com/technetwork/java/javafxscenebuilder-1x-archive-2199384.html)**
 + IntelliJ IDEA the Java IDE
 + JDK
 
@@ -31,6 +31,8 @@ description: Use Material Design on desktop
 1. 首先，安装JDK、JavaFX Scene Builder,两者均可在Oracle官网找到下载链接。
 1. 如果你还没有非常熟悉的Java IDE，那么请下载安装IntelliJ IDEA，这个过程我已经在另一篇博客中说明。
 1. 下载JFoenix的jar包。
+
+出于一位朋友的反馈，再加上我自己之前的失误，我又去Oracle那纯HTML般的官网逛了一圈，把JavaFX Scene Builder2.0的下载链接找了过来。
 
 下载提示：打开上文中JFeonix的链接，并找到这里。
 
