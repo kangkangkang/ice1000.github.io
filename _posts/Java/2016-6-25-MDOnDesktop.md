@@ -46,7 +46,7 @@ description: Use Material Design on desktop
 <center>
     <p><img src="/../../../assets/images/java/javafx1/1.png" align="center"></p>    <p><img src="/../../../assets/images/java/javafx1/2.png" align="center"></p>
 </center>
-+ 打开JavaFX Gesture Builder，按下快捷键**Ctrl+O**并打开你刚刚在IDEA中创建工程文件的地方，找到src目录，并打开，选择刚刚你已经看到了的、IDEA自动生成的Sample.fxml，并打开它。
++ 打开JavaFX Scene Builder，按下快捷键**Ctrl+O**并打开你刚刚在IDEA中创建工程文件的地方，找到src目录，并打开，选择刚刚你已经看到了的、IDEA自动生成的Sample.fxml，并打开它。
 <center>
     <p><img src="/../../../assets/images/java/javafx1/3.png" align="center"></p>
 </center>
@@ -70,7 +70,7 @@ description: Use Material Design on desktop
 </center>
 是不是一股中国高中教材里的Visual basic的感觉。没错，这个非常类似VB，不过基于Java让它拥有更大的能量。
 
-+ **Ctrl+S** 保存。现在我们转移到IntelliJ IDEA。Gesture Builder先别忙关掉，留着我们待会还要用。
++ **Ctrl+S** 保存。现在我们转移到IntelliJ IDEA。Scene Builder先别忙关掉，留着我们待会还要用。
 
 ## 小成果
 
@@ -142,7 +142,7 @@ enjoy!
 
 ## 你学到了什么
 1. jfoenix的使用与下载
-1. JavaFX Gesture Builder的安装与使用
+1. JavaFX Scene Builder的安装与使用
 1. 如何进行JavaFX项目构建
 1. 如何运行一个IDEA项目
 1. Main.java中部分参数的含义
