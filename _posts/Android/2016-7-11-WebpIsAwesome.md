@@ -1,71 +1,71 @@
 ---
 layout: post
-title: �ȸ�ڿƼ���Ϊʲô��ôС��
+title: 谷歌黑科技：为什么这么小啊
 category: Android
 tags: Android, png, image, webp
 keywords: Android, image, png, webp
 description: Why is this so f#cking small ?!
 ---
 
-�ҽ������Ǳ����ˣ�����OI������[��һ�ⳬ��ˮ��������˻��У�����ȫ��](https://github.com/ice1000/OI-codes/blob/master/else/2016-7-11-game.cpp)���ǳ����ε�������ȫ��Ϊ��ʶ�����������������ʧ��������
+我今天算是被震撼了，本来OI考试我[第一题超级水题输出忘了换行，导致全爆](https://github.com/ice1000/OI-codes/blob/master/else/2016-7-11-game.cpp)，非常尴尬的心情完全因为认识了下面这个东西而消失不见啦。
 
-���ǹȸ��Ʒ��һ���ڿƼ�����Ҫ������ͼƬѹ����Ŀǰ��apk�����й�Ϊ���á�
+这是谷歌出品的一个黑科技，主要作用是图片压缩，目前在apk瘦身中广为运用。
 
-�������ֽУ�**Webp**��
+它的名字叫，**Webp**。
 
-## ����
+## 依赖
 
-+ Webp �����й���
++ Webp 命令行工具
 
-���£����격��������Ѷ������еĿ־壨��Ȼ������㱾����ϲ�������еĻ����� ^_^
+别害怕，看完博客让你摆脱对命令行的恐惧（当然，如果你本来就喜欢命令行的话更好 ^_^
 
-## ��װ�벿��
+## 安装与部署
 
-+ ��[����](https://developers.google.com/speed/webp/)�Լ������ӣ���Ҫ��ѧ������
-+ ����֮�󽫽�ѹ���binĿ¼���ӵ���������������㲻֪������˵ʲô������Լ�������ȥû��ϵ���̳��еĲ����ǲ���Ҫ���û��������ģ���������ʵ�����Լ�Ҫ�ã������������Ƽ����������˽�������û�������������������git�ķ�����ͬ������԰�������git�ķ���������
-+ ����һ��pngͼƬ��binĿ¼��
-+ ���նˣ����뵽binĿ¼
++ 打开[官网](https://developers.google.com/speed/webp/)自己找链接（需要科学上网）
++ 下载之后将解压后的bin目录添加到环境变量。如果你不知道我在说什么，你可以继续看下去没关系，教程中的操作是不需要配置环境变量的（除了最后的实验我自己要用），不过还是推荐读者事先了解如何配置环境变量，操作和配置git的方法相同，你可以按照配置git的方法来做。
++ 复制一张png图片到bin目录下
++ 打开终端，进入到bin目录
 
-������Ӧ�������״̬��
+现在你应该是这个状态。
 
 <p><img src="/../../../assets/images/andr/nav/2.png" align="center"></p>
 
-���⣬�Ұ��ҵ�����������ʾ�ˡ������ҵ�����ͼƬԭͼ����С�����������Ľ�ͼ������1.3MB���ȽϿ��¡�
+另外，我把我的桌面用于演示了。这是我的桌面图片原图，大小你可以在上面的截图看到，1.3MB，比较可怕。
 
 <p><img src="/../../../assets/images/andr/nav/1.png" align="center"></p>
 
-��������Ҫѹ������
+现在我们要压缩它。
 
-���ն˵Ļ���win10�û����������򿪡������ֻ�������ˡ�
+打开终端的话，win10用户可以这样打开。别的你只能自助了。
 
 <p><img src="/../../../assets/images/andr/nav/3.png" align="center"></p>
 
-## ʹ��
+## 使用
 
-ִ���������
+执行以下命令：
 
 ```bash
-cwebp -q 100 [���ͼƬ�ļ���] -o [���ͼƬ�ļ�������չ����Ϊwebp]
+cwebp -q 100 [你的图片文件名] -o [你的图片文件名，扩展名改为webp]
 ```
 
-����㲻֪�����ڷ���������д����ɶ�����԰�ͼƬ����Ϊ test.png ��Ȼ�����Ժ���һ�������
+如果你不知道我在方括号里面写的是啥，可以把图片命名为 test.png ，然后试试和我一样的命令：
 
 ```bash
 cwebp -q 100 test.png -o test.webp
 ```
 
-Ȼ�����漣�����ɣ����������еĽ�ͼ��
+然后看着奇迹发生吧，这是命令行的截图：
 
 <p><img src="/../../../assets/images/andr/nav/4.png" align="center"></p>
 
-�ٿ������ɵ�ͼƬ�Ĵ�С��
+再看看生成的图片的大小：
 
 <p><img src="/../../../assets/images/andr/nav/5.png" align="center"></p>
 
-�ҷǳ�һ����ͧ�����ͼƬ��ʽ�ǿ�������Android�ģ�ֱ���Ͻ�ȥ����һ��png�þ����ˡ���Ȼ��chromeҲ֧�ִ򿪡�
+我非常一颗赛艇。这个图片格式是可以用于Android的，直接拖进去当成一个png用就行了。当然，chrome也支持打开。
 
-## ���õ�ʹ��
+## 更好地使用
 
-����д�����Ȼ��˼ң��������Ͼ��ܿ�����
+正在写，我先回趟家，你们马上就能看到了
 
 
