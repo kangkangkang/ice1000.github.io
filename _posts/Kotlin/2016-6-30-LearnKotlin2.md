@@ -4,7 +4,7 @@ title: 如何让孩子爱上Kotlin第二章：Hello World
 category: Kotlin
 tags: Kotlin
 keywords: Kotlin
-description: Learn kotlin 1 Hello World
+description: Learn kotlin 2 Hello World
 ---
 
 同学们，你们期待已久的Kotlin教程终于出现啦！

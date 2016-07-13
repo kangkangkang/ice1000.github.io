@@ -66,6 +66,19 @@ cwebp -q 100 test.png -o test.webp
 
 ## 更好地使用
 
-正在写，我先回趟家，你们马上就能看到了
+改变压缩率：
 
+```bash
+cwebp -q [质量] [source.png] -o [target.webp]
+```
 
+将webp转化为png：
+
+```bash
+dwebp [source.webp] -o [target.png]
+```
+
+## 你学到了什么
+
++ apk瘦身技巧
++ webp命令行工具的安装与使用

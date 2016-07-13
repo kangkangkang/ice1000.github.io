@@ -21,7 +21,7 @@ description: The way to learn kotlin
 
 ## Kotlin是什么
 
-Kotlin是一门基于JVM的编程语言，支持编译成Java平台的.class目标文件和JavaScript文件。支持Java字节码是因为这门语言本身基于Java，不过为了方便wwb开发和独立于JVM的运行，Kotlin团队也引入了JavaScript的编译。
+Kotlin是一门基于JVM的编程语言，支持编译成Java平台的.class目标文件和JavaScript文件。支持Java字节码是因为这门语言本身基于Java，不过为了方便web开发和独立于JVM的运行，Kotlin团队也引入了JavaScript的编译。
 
 那么，Kotlin作为一门编程语言，有哪些特点呢？（；^ω^）
 
