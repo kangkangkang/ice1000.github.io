@@ -80,7 +80,11 @@ description: My First Work Experence, very frustrating, it nearly drove me 2 dea
 		系统通知：千里冰封已经退出该群
 		
 ### 解释：
-进度慢了是因为学Kotlin去了，当时刚刚了解到Kotlin语言，一见钟情。。。然后开始刷JetBrains Blog，然后又在老师的催促下刷POJ，刷NOI open judge，刷codevs，刷洛谷，刷成外OJ（咱学校自己搭的OJ， http://www.cwoj.tk
+进度慢了是因为学Kotlin去了，当时刚刚了解到Kotlin语言，一见钟情。。。然后开始刷JetBrains Blog，然后又在老师的催促下刷POJ，刷NOI open judge，刷codevs，刷洛谷，刷成外OJ（咱学校自己搭的OJ， https://www.cwoj.tk
+
+大概这幅漫画就很好地描述了这个情景。[这里是出处](http://blog.xiqiao.info/category/programmers/page/12)
+
+<p><img src="/../../../assets/images/life/1.png" align="center"></p>
 
 ## 我的心态变化：
 1. 占坑吧，看看他们能做成啥样
