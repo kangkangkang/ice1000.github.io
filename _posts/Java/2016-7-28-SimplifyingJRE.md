@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 难忘的经历：精简JRE
+title: 精简JRE
 category: Java
 tags: Java, JRE
 keywords: Java, JRE
