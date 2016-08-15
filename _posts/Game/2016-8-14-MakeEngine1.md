@@ -12,7 +12,10 @@ description: make a game engine chapter 1
 ## 缘由
 想去弄个游戏，本来勉强上手了Unity，却一直找不到合适的教程（估计是商业化太严重了），现在Unity也就是Hello World水平，不过还因此又装上了Project Rider EAP和Visual Studio 2015，两个都没怎么用。不过倒是见识了一下宇宙最强IDE，感觉没有我之前听到的那么糟糕，挺好的一个IDE。不过我心中的最强还是IntelliJ IDEA or Android Studio，哈哈。
 
-呃又因为我最熟悉的语言都是JVM的，再加上之前使用[JustWeEngine](https://github.com/lfkdsk/JustWeEngine)开发[Android原生游戏](https://github.com/ice1000/StudioVSEclipse)的经历，让我产生了自己搞一个游戏引擎的想法。首先JVM平台资源丰富，而且有Write once, ~~debug~~ run everywhere的优点，再加上Java程序员多，我决定使用自己深爱的Kotlin来做一个这样的Game Engine。
+呃又因为我最熟悉的语言都是JVM的，再加上之前使用[JustWeEngine](https://github.com/lfkdsk/JustWeEngine)开发[Android原生游戏](https://github.com/icela/StudioVSEclipse)的经历，让我产生了自己搞一个游戏引擎的想法。首先JVM平台资源丰富，而且有Write once, ~~debug~~ run everywhere的优点，再加上Java程序员多，我决定使用自己深爱的Kotlin来做一个这样的Game Engine。
+
+## 说在前面
+那些想说“没代码说个JB”的人，你们大可以去直接阅读我引擎的源码。前提是你要看得懂Kotlin。我不想在这个系列里面放太多代码，因为这样会导致我的文章变得Platform-dependent，就不适合非JVM工作者阅读了。我是希望.Net工作者、C++工作者、前端等各行各业的人士都能看懂我的这份自制引擎的博客。
 
 ## 第一件事
 当然是起一个帅气的名字。。。
@@ -47,7 +50,7 @@ onFocus(OnWindowEvent)|获得焦点时调用
 搭好框架了，下一步是什么呢？
 
 ## 第三件事
-人人都会写的图像处理，读取图片刷进一个窗口。先不急着做双缓冲，先直接显示。
+人人都会写的图像处理，读取图片刷进一个窗口。先不急着做双缓冲，先直接显示。双缓冲所谓的多占一点空间对现在的电脑来说完全没有问题，不要在意那么多。不过做这个之前，我们先让这个引擎跑起来。
 
 ## 第四件事
 游戏肯定得刷新啊，于是我又学 JustWeEngine 让游戏基类实现了Runnable，然后重载了run方法，在构造方法最后一句Thread(this).start()，林抠死大头！
@@ -59,7 +62,7 @@ onFocus(OnWindowEvent)|获得焦点时调用
 
 ## 结语
 
-最初话先写这么多，刚做完加速度系统，欢迎围观我家[寒冰引擎](https://github.com/icela/FriceEngine)！之后这个系列还会更新哦。
+最初话先写这么多，刚做完加速度系统，欢迎围观我家萌萌哒[寒冰引擎](https://github.com/icela/FriceEngine)！之后这个系列还会更新哦。
 
 
 
