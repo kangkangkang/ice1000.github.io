@@ -9,7 +9,7 @@ description: make a game engine chapter 2
 
 
 说话之前先扔几个链接：<br/>
-[视频1，分两段，为刚做的时候的样子](http://www.bilibili.com/video/av5803264/)
+[视频1，分两段，为刚做的时候的样子](http://www.bilibili.com/video/av5803264/)<br/>
 [视频2，刚录的几个Demo演示](http://www.bilibili.com/video/av5844110/)
 
 ## 双缓冲
@@ -29,7 +29,7 @@ g.clearRect(getWidth(), getHeight);
 根据这个理论，我们就要使用一种叫双缓冲的技术。
 
 ## 双缓冲思想
-顾名思义，首先你需要一个可以快速读写的缓冲区，在这个缓冲区放一个图像类。这个图像是一个二维矩阵，你可以很简单地操作它。通过Graphics类我们可以在这个图像里面画图片、几何图形、文字等。
+顾名思义，首先你需要一个可以快速读写的缓冲区，在这个缓冲区放一个图像类。这个图像是一个二维矩阵，你可以很简单地操作它。通过Graphics类我们可以在这个图像里面绘制图片、几何图形、文字等。
 
 然后刷新的时候，将这个图像作为一个单独的图像显示到屏幕上。
 
@@ -65,3 +65,25 @@ override fun paint(g: Graphics) {
 非常简单，不是吗？
 
 现在你的引擎是不是已经如丝般顺滑了？
+
+
+## 添加图片
+我们来简单实践一下。上期博客没有具体讲解怎么向窗口中添加图片。这期我还是不会放代码，想阅读代码的同学可以移步[GitHub仓库](https://github.com/icela/FriceEngine)，点个star之后慢慢看。我只准备将相应的设计思想放出来。
+
+首先你需要一个通用接口，在寒冰引擎中这个接口叫FObject。为了避免和JVM基类Object冲突，我增加了一个'F'前缀。然后你可以创建ImageObject接口和ShapeObject分别实现这个实例，然后再通过FileImageObject、WebImageObject等类来实现ImageObject。
+
+这几个类分别是显示图形、显示图片的类，并且有着不同的实现——当然，在我的代码中，WebImageObject和FileImageObject的代码是几乎一模一样的，不过我为了区分不同的图片源，就封装了不同的图片类。
+
+在上文的代码中，将TODO("draw BufferedImage buffer")替换成碰撞检测、坐标计算、图形绘制，就能实现显示图片啦。
+
+## 数据库
+作为一个游戏引擎，数据库也是非常重要的。
+
+选择合适的数据库非常重要，因为游戏的要求是非常高的。我目前用的最顺手的是Android上的SharedPreference，于是就封装了一个基于xml的键值对数据库。
+
+为什么不选择SQLite？因为jdbc的体积太大了，5mb左右的一个类库实在是太影响体积了。目前的寒冰引擎大小只有800kb，这5mb实在太反客为主了。
+
+## 音乐
+同理，游戏怎么能少得了音乐？我将之前写过的项目——[Dekoder](https://github.com/ice1000/Dekoder)中的wav解码部分提取出来，进行了简要的封装并加入到了寒冰引擎中。
+
+为什么没有添加MP3支持？虽然Dekoder通过加入外部库的方法实现了MP3支持，但是外部库体积高大200kb，
