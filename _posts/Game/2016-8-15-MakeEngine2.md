@@ -7,6 +7,9 @@ keywords: Java,Game,Engine
 description: make a game engine chapter 2
 ---
 
+### 文章其他地址
+- [indienova](http://www.indienova.com/home/blogread/1048)
+
 
 说话之前先扔几个链接：<br/>
 [视频1，分两段，为刚做的时候的样子](http://www.bilibili.com/video/av5803264/)<br/>
@@ -76,14 +79,17 @@ override fun paint(g: Graphics) {
 
 在上文的代码中，将TODO("draw BufferedImage buffer")替换成碰撞检测、坐标计算、图形绘制，就能实现显示图片啦。
 
-## 数据库
+## 工具类
+游戏引擎自然是少不了工具类的，简单说一下我认为最重要的两个工具类。
+
+### 数据库
 作为一个游戏引擎，数据库也是非常重要的。
 
 选择合适的数据库非常重要，因为游戏的要求是非常高的。我目前用的最顺手的是Android上的SharedPreference，于是就封装了一个基于xml的键值对数据库。
 
 为什么不选择SQLite？因为jdbc的体积太大了，5mb左右的一个类库实在是太影响体积了。目前的寒冰引擎大小只有800kb，这5mb实在太反客为主了。
 
-## 音乐
+### 音乐
 同理，游戏怎么能少得了音乐？我将之前写过的项目——[Dekoder](https://github.com/ice1000/Dekoder)中的wav解码部分提取出来，进行了简要的封装并加入到了寒冰引擎中。
 
 为什么没有添加MP3支持？虽然Dekoder通过加入外部库的方法实现了MP3支持，但是外部库体积高大200kb，这样引擎加起来就变成了1MB了，正式突破MB的界限，我暂时还不想这么做。根据Eldath的建议，我可以做成插件啊。

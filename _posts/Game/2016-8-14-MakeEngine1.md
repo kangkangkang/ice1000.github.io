@@ -7,6 +7,10 @@ keywords: Java,Game,Engine
 description: make a game engine chapter 1
 ---
 
+### 文章其他地址：
+- [知乎](https://zhuanlan.zhihu.com/p/22053395)
+- [indienova](http://indienova.com/u/ice1000/blogread/1043)
+
 边刷OI题边写博客，求不被老师发现 (￣ˇ￣)/ 
 
 ## 缘由
