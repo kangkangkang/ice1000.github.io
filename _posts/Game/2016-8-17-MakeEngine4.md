@@ -147,11 +147,11 @@ loopIf({ !paused && !stopped && refresh.ended()}) {
 ## 第五件事
 我一直对Java的性能很不自信，以为Java卡，Java慢，反正就是垃圾语言。所以我一开始给引擎固定的刷新率是40fps（我提供了API修改这个值），然后整个画面看起来有点卡，不过还行，起码看得过去。然后后来在和凯凯（3A）聊天时，提到了fps这个东西。
 
-<p><img src="/../../../assets/images/game/4/5.png" align="center"></p>
+<p><img src="/../../../assets/images/game/4/5.jpg" align="center"></p>
 
 凯凯是元火引擎的作者，元火是个C++引擎。我发现fps原来都是几百上千的，于是也想试试，看看Java（Kotlin）引擎性能怎么样。
 
-<p><img src="/../../../assets/images/game/4/6.png" align="center"></p>
+<p><img src="/../../../assets/images/game/4/6.jpg" align="center"></p>
 
 然后我把这个调到了1000fps，发现毫无卡顿，如丝般顺滑。。我当时就被这个流畅的画面惊艳到了，Java的渲染也没那么糟糕嘛。看来无论什么事都得试试才行啊。
 
