@@ -71,44 +71,7 @@ async() {
 
 然后我发现这太好玩了，于是专门在utils包下弄了个叫kotlin的包，里面专门放这种东西。因为extension只有在Kotlin中使用才会体现出它的方便，所以这些东西只支持Kotlin。
 
-```swift
-inline fun <T> T.loop(block: T.() -> Unit): T {
-	while (true) block.invoke(this)
-}
-
-inline fun <T> T.loop(count: Int, block: T.(Int) -> Unit): T {
-	for (index in 0..count - 1) block.invoke(this, index)
-	return this
-}
-
-inline fun <T> T.loopIf(condition: () -> Boolean, block: T.() -> Unit): T {
-	while (true) if (condition.invoke()) block.invoke(this)
-}
-
-inline fun <T> T.forceRun(block: T.() -> Unit): T {
-	try {
-		block.invoke(this)
-	} catch (e: Throwable) {
-	}
-	return this
-}
-
-inline fun <T> T.forceGet(default: Any, block: T.() -> Any) =  try { block.invoke(this) } catch (e: Throwable) { default }
-
-/**
- * if there's exception, it will exit
- */
-inline fun <T> T.forceLoop(block: T.() -> Unit) = forceRun { loop(block) }
-
-fun <T> T.pause(length: Int) = pause(length.toLong())
-
-fun <T> T.pause(length: Double) = pause(length.toLong())
-
-fun <T> T.pause(length: Long): T {
-	Thread.sleep(length)
-	return this
-}
-```
+<script src="https://gist.github.com/ice1000/16d851883e0ac61f905cbb891d20a155.js"></script>
 
 没错，压行的习惯是OI捡来的。
 
