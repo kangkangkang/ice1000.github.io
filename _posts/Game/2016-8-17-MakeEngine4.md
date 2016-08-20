@@ -71,45 +71,6 @@ async() {
 
 然后我发现这太好玩了，于是专门在utils包下弄了个叫kotlin的包，里面专门放这种东西。因为extension只有在Kotlin中使用才会体现出它的方便，所以这些东西只支持Kotlin。
 
-```swift
-inline fun <T> T.loop(block: T.() -> Unit): T {
-	while (true) block.invoke(this)
-}
-
-inline fun <T> T.loop(count: Int, block: T.(Int) -> Unit): T {
-	for (index in 0..count - 1) block.invoke(this, index)
-	return this
-}
-
-inline fun <T> T.loopIf(condition: () -> Boolean, block: T.() -> Unit): T {
-	while (true) if (condition.invoke()) block.invoke(this)
-}
-
-inline fun <T> T.forceRun(block: T.() -> Unit): T {
-	try {
-		block.invoke(this)
-	} catch (e: Throwable) {
-	}
-	return this
-}
-
-inline fun <T> T.forceGet(default: Any, block: T.() -> Any) =  try { block.invoke(this) } catch (e: Throwable) { default }
-
-/**
- * if there's exception, it will exit
- */
-inline fun <T> T.forceLoop(block: T.() -> Unit) = forceRun { loop(block) }
-
-fun <T> T.pause(length: Int) = pause(length.toLong())
-
-fun <T> T.pause(length: Double) = pause(length.toLong())
-
-fun <T> T.pause(length: Long): T {
-	Thread.sleep(length)
-	return this
-}
-```
-
 我还把这段代码扔到了 gist 上面：
  
 <script src="https://gist.github.com/ice1000/16d851883e0ac61f905cbb891d20a155.js"></script>
@@ -151,11 +112,11 @@ loopIf({ !paused && !stopped && refresh.ended()}) {
 ## 第五件事
 我一直对Java的性能很不自信，以为Java卡，Java慢，反正就是垃圾语言。所以我一开始给引擎固定的刷新率是40fps（我提供了API修改这个值），然后整个画面看起来有点卡，不过还行，起码看得过去。然后后来在和凯凯（3A）聊天时，提到了fps这个东西。
 
-<p><img src="/../../../assets/images/game/4/5.png" align="center"></p>
+<p><img src="/../../../assets/images/game/4/5.jpg" align="center"></p>
 
 凯凯是元火引擎的作者，元火是个C++引擎。我发现fps原来都是几百上千的，于是也想试试，看看Java（Kotlin）引擎性能怎么样。
 
-<p><img src="/../../../assets/images/game/4/6.png" align="center"></p>
+<p><img src="/../../../assets/images/game/4/6.jpg" align="center"></p>
 
 然后我把这个调到了1000fps，发现毫无卡顿，如丝般顺滑。。我当时就被这个流畅的画面惊艳到了，Java的渲染也没那么糟糕嘛。看来无论什么事都得试试才行啊。
 
