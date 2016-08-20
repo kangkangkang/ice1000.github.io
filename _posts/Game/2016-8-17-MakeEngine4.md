@@ -110,6 +110,10 @@ fun <T> T.pause(length: Long): T {
 }
 ```
 
+我还把这段代码扔到了 gist 上面：
+ 
+<script src="https://gist.github.com/ice1000/16d851883e0ac61f905cbb891d20a155.js"></script>
+
 没错，压行的习惯是OI捡来的。
 
 然后你们曾经在第二章看到过的那一段刷新主线程的代码，已经发生了翻天覆地的变化：
