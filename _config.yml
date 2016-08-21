@@ -25,7 +25,7 @@ github: ice1000
 
 # avatar头像及Favicon
 avatar: /assets/images/ice.jpg
-favicon: /assets/images/nc.jpg
+favicon: /assets/img/icon.ico
 
 sass:
   style: compressed
