@@ -78,6 +78,10 @@ cwebp -q [质量] [source.png] -o [target.webp]
 dwebp [source.webp] -o [target.png]
 ```
 
+后来我发现，Google Play上的所有App相关的图片全部是webp格式的，我右键保存了几张图片，下载的时候就全是webp。。不知道那些没听说过这个格式的人会不会以为人家是在加密啊。。
+
+然后我就拿 dwebp把图片给弄回去了。（幸好有了命令行工具啊，不然也只能看着一张张只有Chrome才能打开的图片发呆了（不过截图倒是一个solution，嘿嘿））
+
 ## 你学到了什么
 
 + apk瘦身技巧
